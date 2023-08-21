@@ -24,12 +24,58 @@ https://github.com/kunalg123/riscv_workshop_collaterals/blob/master/run.sh
 
 
 ## Day - 1
+**C Program**
+
+We wrote a C program for calculating the sum from 1 to n
 
 ![Screenshot from 2023-08-21 10-25-30](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/0e706e45-29c5-4cfe-993b-8756421920e8)
 
 ![Screenshot from 2023-08-21 15-59-00](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/b252c5fd-5e17-4064-ab6f-34c576c8f6e1)
 
+
+**RISCV GCC Compiler and Dissemble**
+
+
+> Using the riscv gcc compiler, we compiled the C program.
+
+> riscv64-unknown-elf-gcc -O1 -mabi=lp64 -march=rv64i -o sum11.o sum11.c
+
+> Using ls -ltr sum1ton.c, we can check that the object file is created.
+
+> To get the dissembled ALP code for the C program,
+
+> riscv64-unknown-elf-objdump -d sum11.o | less .
+
+> In order to view the main section, type /main
+
+
+When we use -Ofast optimisation, we can see that the number of instructions have been reduced to 12
+
+
 ![Screenshot from 2023-08-21 21-36-52](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/f6a42c13-58a3-4533-b9d1-467973a4d250)
+
+**Integer Number Representation**
+
+**Unsigned Numbers**
+
+
+    Unsigned numbers, also known as non-negative numbers, are numerical values that represent magnitudes without indicating direction or sign.
+    Range: [0, (2^n)-1 ]
+
+
+**Signed Numbers**
+
+
+    Signed numbers are numerical values that can represent both positive and negative magnitudes, along with zero.
+    Range : Positive : [0 , 2^(n-1)-1] Negative : [-1 to 2^(n-1)]
+
+
+**Labwork**
+
+
+We wrote a C program that shows the maximum and minimum values of 64bit unsigned numbers.
+
+
 
 
 ![Screenshot from 2023-08-21 17-49-00](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/2576945e-1897-4854-a6d5-199acac2d2e2)
