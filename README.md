@@ -23,9 +23,11 @@ https://github.com/kunalg123/riscv_workshop_collaterals/blob/master/run.sh
 2. Run the commands in run.sh file.
 
 
-#WEEK -1
+<details>
+<summary>  WEEK -1 -> Day - 1</summary><br>
 
-## Day - 1
+
+
 **C Program**
 
 We wrote a C program for calculating the sum from 1 to n
@@ -92,8 +94,13 @@ We wrote a C program that shows the maximum and minimum values of 64bit unsigned
 
 ![Screenshot from 2023-08-21 21-52-01](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/38ac1e72-dd0e-41ee-bda8-c9719081d8df)
 
+</details>
 
-## Day - 2
+
+<details>
+    
+
+<summary> Week 1 -> Day - 2</summary>
 # Using ABI (Application Binary Interface) function calls in lab work typically involves working with low-level programming languages like Assembly or understanding how different programming languages interact at the binary level. Here's a general outline of what lab work involving ABI function calls might entail:
 
 ## Lab Objective: To understand and demonstrate the usage of ABI function calls in programming.
@@ -145,9 +152,17 @@ Steps:
 
 ![Screenshot from 2023-08-21 23-50-06](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/9f75cbc5-453f-490d-8fc3-6240be0bf2ac)
 
-# Week-2
 
-## Day-1
+
+</details>
+
+
+<details>
+  <summary>
+       Week-2 -> Day-1
+  </summary>
+
+
 
 # Introduction to Yosys and Logic Synthesis
 
@@ -198,6 +213,7 @@ Steps:
 ![Screenshot from 2023-08-27 21-55-18](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/eb39c73d-ff5d-4050-919c-513645e0d2b8)
 
 ![Screenshot from 2023-08-27 21-07-40](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/df509fb6-f4be-44e7-b002-436fe033094b)
+</details>
 
 ## Day-2
 
