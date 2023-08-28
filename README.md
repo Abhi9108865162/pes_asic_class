@@ -100,7 +100,7 @@ We wrote a C program that shows the maximum and minimum values of 64bit unsigned
 <details>
     
 
-<summary> Week 1 -> Day - 2</summary>
+<summary> WEEK 1 -> Day - 2</summary>
 # Using ABI (Application Binary Interface) function calls in lab work typically involves working with low-level programming languages like Assembly or understanding how different programming languages interact at the binary level. Here's a general outline of what lab work involving ABI function calls might entail:
 
 ## Lab Objective: To understand and demonstrate the usage of ABI function calls in programming.
@@ -159,7 +159,7 @@ Steps:
 
 <details>
   <summary>
-       Week-2 -> Day-1
+       WEEK-2 -> Day-1
   </summary>
 
 
@@ -215,13 +215,29 @@ Steps:
 ![Screenshot from 2023-08-27 21-07-40](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/df509fb6-f4be-44e7-b002-436fe033094b)
 </details>
 
-## Day-2
+
+<details>
+    
+<summary> WEEK-2 -> Day-2 </summary>
+# Introduction to dot lib
+
+![Screenshot from 2023-08-28 10-20-38](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/76ff4fbc-1645-4772-a7aa-d4080cd8b2a9)
+
+![Screenshot from 2023-08-28 14-15-55](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/87767a9e-3acf-4707-9d4f-24aac76ebb2b)
+
+![Screenshot from 2023-08-28 14-54-01](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/04958aee-c402-4caf-86d7-778cee3e063a)
+
+
+![Screenshot from 2023-08-28 14-58-44](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/daa6776a-d34d-4afb-93a4-f35dac3a892c)
+
+![Screenshot from 2023-08-28 15-22-12](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/5d583965-2f7e-4526-bd6c-b27536efda05)
 
 
 
 
 
 
+</details>
 
 
 
