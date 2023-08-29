@@ -159,7 +159,7 @@ Steps:
 
 <details>
   <summary>
-       WEEK-2 -> Day-1
+       WEEK-2 -> Day - 1
   </summary>
 
 
@@ -218,7 +218,7 @@ Steps:
 
 <details>
     
-<summary> WEEK-2 -> Day-2 </summary>
+<summary> WEEK-2 -> Day - 2 </summary>
 # Introduction to dot lib
 
 ![Screenshot from 2023-08-28 10-20-38](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/76ff4fbc-1645-4772-a7aa-d4080cd8b2a9)
@@ -253,13 +253,15 @@ Steps:
 
 </details>
 
+<details>
+    
+<summary> WEEK-2 -> Day - 3 </summary>
 
 
 
 
 
-
-
+</details>
 
 
 
