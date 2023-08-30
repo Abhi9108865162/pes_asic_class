@@ -152,9 +152,10 @@ Steps:
 
 ![Screenshot from 2023-08-21 23-50-06](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/9f75cbc5-453f-490d-8fc3-6240be0bf2ac)
 
-
-
 </details>
+
+
+
 
 
 <details>
@@ -213,7 +214,13 @@ Steps:
 ![Screenshot from 2023-08-27 21-55-18](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/eb39c73d-ff5d-4050-919c-513645e0d2b8)
 
 ![Screenshot from 2023-08-27 21-07-40](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/df509fb6-f4be-44e7-b002-436fe033094b)
+
 </details>
+
+
+
+
+
 
 
 <details>
@@ -271,8 +278,6 @@ Steps:
 
 ![Screenshot from 2023-08-29 06-16-16](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/4035e930-698a-447b-b8fc-19449bac4b1d)
 
-
-</details>
 
 # Various Flop Code Styles and Optimization 
 - Why Flops and Flop Coding Styles
