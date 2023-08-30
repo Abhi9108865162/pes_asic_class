@@ -376,12 +376,108 @@ Steps:
 <details>
     
 <summary> WEEK-2 -> Day - 3 </summary>
+
 # Combinational and Sequetial Optimisations
+
 - Introduction to Optimisation
+  
+    1. Combinational Logic Optimisation
+  
+![Screenshot from 2023-08-30 22-23-48](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/36701a6c-1fff-4fd8-84a4-2a308b01182c)
+![Screenshot from 2023-08-30 22-24-17](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/123ba7a7-8481-4613-ba5c-a561b0e249bc)
+![Screenshot from 2023-08-30 22-24-33](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/2e0c04ba-070c-4302-b4e5-7f418fcc2faa)
 
-- Combinational Logic Optimisation
+    2. Sequential Logic Optimisation
+    
+![Screenshot from 2023-08-30 22-24-59](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/c16ca43b-7966-4762-89df-daf591bcc6a7)
+![Screenshot from 2023-08-30 22-25-18](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/c9c69dad-c98b-424b-8fac-75dbdb6bb566)
 
-- Sequential Logic Optimisationa
+
+
+
+
+
+- Combinational Logic Optimisation Lab Implemention
+
+## Verliog code for otp_check
+![Screenshot from 2023-08-30 23-51-28](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/d5ef414c-ac4b-4dda-8ae8-f88770c49624)
+## Pratical implemention of otp_check
+![Screenshot from 2023-08-30 23-26-03](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/62302c34-cd6f-442a-a07d-b3f7d106d237)
+## Using Yosys implemention of otp_check
+![Screenshot from 2023-08-30 23-38-43](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/61403cb8-83c9-47ee-9718-693f65cd3717)
+![Screenshot from 2023-08-30 23-39-32](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/1f32d4a0-49ba-4879-8b33-394479e0bd26)
+![Screenshot from 2023-08-30 23-39-49](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/9fbabebf-9a6d-4c5f-8741-955a3cd166d2)
+![Screenshot from 2023-08-30 23-39-54](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/dc1da4cf-2081-4707-a0fc-3e0fc4293578)
+![Screenshot from 2023-08-30 23-40-11](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/8ad8ce12-416b-41d4-b62b-2a58dfba0ecf)
+
+
+## Verliog code for otp_check2
+![Screenshot from 2023-08-30 23-51-44](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/33461fc0-8855-4f5d-8795-44968bd32e19)
+## Pratical implemention of otp_check2
+ ![Screenshot from 2023-08-30 23-26-14](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/a8b64528-6eeb-4395-8fbe-b847f6e5047d)
+## Using Yosys implemention of otp_check2
+![Screenshot from 2023-08-30 23-44-30](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/8641d680-629b-4082-bca2-81a9c6d5e325)
+![Screenshot from 2023-08-30 23-44-54](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/110d0c6e-4228-4d70-aa4a-8e230641473c)
+![Screenshot from 2023-08-30 23-45-00](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/cb3af423-594d-4dad-a976-ae5ba37e71ee)
+![Screenshot from 2023-08-30 23-45-10](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/ea4dcc67-5d26-4bae-aa70-04e314baa7db)
+
+## Verliog code for otp_check3
+![Screenshot from 2023-08-30 23-52-27](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/70a54cd1-5295-4cde-8e7d-7a714804b654)
+
+## Pratical implemention of otp_check3
+![Screenshot from 2023-08-30 23-53-36](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/6bf3d3bf-3793-4c83-807c-64cd492358c7)
+
+## Using Yosys implemention of otp_check3
+![Screenshot from 2023-08-30 23-56-16](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/66b2e77c-5fa5-4ec5-ab14-f429e1d3d2d3)
+![Screenshot from 2023-08-30 23-56-43](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/7880a756-d8b1-47ac-af30-9fbe845c9e84)
+![Screenshot from 2023-08-30 23-56-49](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/b4ebb9b3-6f05-4a5e-836d-7ce72270df32)
+![Screenshot from 2023-08-30 23-57-02](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/095bbaa5-8b5a-4722-b7c7-a74af0c6de29)
+
+
+
+
+
+## Verliog code for otp_check4
+![Screenshot from 2023-08-30 23-53-02](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/8e66fccf-508b-4141-b015-86997c248190)
+
+## Using Yosys implemention of otp_check4
+![Screenshot from 2023-08-31 00-01-49](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/7bf80901-261b-4eda-9c74-b995d1f7831d)
+![Screenshot from 2023-08-31 00-02-18](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/657a537a-ad3b-4269-a627-bbb869ff16dc)
+![Screenshot from 2023-08-31 00-02-22](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/283b4350-6eaa-42d4-ad85-bff003e8e76e)
+![Screenshot from 2023-08-31 00-02-32](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/9a0c75b4-5091-4d6c-8dd4-0b3880056a38)
+
+## Verliog code for multiple_module_opt
+![Screenshot from 2023-08-31 00-13-22](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/b490d3ef-dc09-4751-a40d-dcc5ab7bbfd0)
+
+
+
+## Using Yosys implemention of multiple_module_opt
+![Screenshot from 2023-08-31 00-11-14](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/3f2646d6-0e96-40d9-a3b0-2568e3028c78)
+![Screenshot from 2023-08-31 00-11-55](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/1668d98a-77fb-4026-b225-a020d97e0eb6)
+![Screenshot from 2023-08-31 00-12-05](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/690a848b-2bd4-4381-9866-9be862b9ca23)
+![Screenshot from 2023-08-31 00-12-15](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/88e86d23-a31a-4094-95a3-724361a39e06)
+
+## Verliog code for multiple_module_opt2
+![Screenshot from 2023-08-31 00-14-31](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/0b715e9a-d175-46ca-bf53-deea84ea8c77)
+
+## Using Yosys implemention of multiple_module_opt2
+![Screenshot from 2023-08-31 00-16-39](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/958c1d49-1018-4171-b47e-f49b1d8aec8a)
+![Screenshot from 2023-08-31 00-17-08](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/a1a4c100-d571-4db9-80d3-0debaf495eee)
+![Screenshot from 2023-08-31 00-17-15](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/370cf605-6623-443c-89d9-b156460f1c77)
+![Screenshot from 2023-08-31 00-17-21](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/311e363f-b1ee-4a8d-a925-aa06ade80708)
+
+
+
+
+
+
+
+
+
+
+
+
+- Sequential Logic Optimisation
 
 - Sequential Optimization for Unused Outputs
 
