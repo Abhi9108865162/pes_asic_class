@@ -222,6 +222,7 @@ Steps:
 
 # Introduction to dot lib
 
+
 ![Screenshot from 2023-08-28 10-20-38](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/76ff4fbc-1645-4772-a7aa-d4080cd8b2a9)
 
 ![Screenshot from 2023-08-28 14-15-55](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/87767a9e-3acf-4707-9d4f-24aac76ebb2b)
@@ -232,6 +233,8 @@ Steps:
 ![Screenshot from 2023-08-28 14-58-44](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/daa6776a-d34d-4afb-93a4-f35dac3a892c)
 
 ![Screenshot from 2023-08-28 15-22-12](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/5d583965-2f7e-4526-bd6c-b27536efda05)
+
+# Hierarachical vs Flat Synthesis
 
 ![Screenshot from 2023-08-28 16-13-52](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/a8373588-7b71-4a83-a70b-d486a2349560)
 
@@ -271,12 +274,78 @@ Steps:
 
 </details>
 
-<details>
-    
-<summary> WEEK-2 -> Day - 3 </summary>
+# Various Flop Code Styles and Optimization 
+- Why Flops and Flop Coding Styles
+- Lab flop synthesis simulations
+- Intersyning Optimisations
 
 
+![Screenshot from 2023-08-29 20-28-58](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/a125e493-e3f0-4357-9a39-b9a499a1be36)
 
+![Screenshot from 2023-08-29 20-46-44](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/f7eafad2-ab3c-4f1e-9ef8-cc525759f584)
+
+![Screenshot from 2023-08-29 20-46-52](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/aea1f55f-8184-45fd-bcee-67088444542f)
+
+![Screenshot from 2023-08-29 20-47-28](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/249a220d-6ebf-4e6b-9394-a4e6bb700f95)
+
+![Screenshot from 2023-08-29 20-47-42](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/efba0892-c648-4638-9f45-64e0dc7386c9)
+
+![Screenshot from 2023-08-29 21-00-41](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/bffb49c4-c091-460a-a149-efa3f680b0a2)
+
+![Screenshot from 2023-08-29 21-01-06](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/e6325a21-4ccf-4332-bdc7-5b26066d06c5)
+
+
+![Screenshot from 2023-08-29 21-01-13](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/1e8915b0-c7f8-4ff6-8d13-324c3c003557)
+
+
+![Screenshot from 2023-08-29 21-01-32](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/be448b4d-f714-437b-b774-6004af1b8f64)
+
+
+![Screenshot from 2023-08-29 22-19-50](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/8c447adb-95a0-4ce1-9bf1-14092cf4ab7b)
+
+
+![Screenshot from 2023-08-29 22-19-57](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/197b07f1-6d1f-4b40-a5f1-ec6e12d0c268)
+
+![Screenshot from 2023-08-29 22-39-29](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/b9cbe95a-065c-43f9-942a-1855517c0874)
+
+![Screenshot from 2023-08-29 22-39-18](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/5eea6750-534a-4c9e-90e1-5e2b6b4ac0fb)
+
+![Screenshot from 2023-08-29 22-40-17](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/2f5afbdb-e3d2-44cd-8acb-842cad8ad8cf)
+
+![Screenshot from 2023-08-29 22-40-46](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/5286c0af-38f8-4679-af23-b6d30b5a1cc3)
+
+![Screenshot from 2023-08-29 22-40-56](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/54000e0e-407f-4306-9222-3cd4c9874cac)
+
+![Screenshot from 2023-08-29 23-02-56](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/d712b0b5-4760-4756-a815-35458a8675de)
+
+![Screenshot from 2023-08-29 23-03-29](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/853ef49d-eda5-452a-9e43-aef64c49f26e)
+
+![Screenshot from 2023-08-29 23-04-00](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/adf24b33-6f10-475e-8b68-80c943f1930a)
+
+![Screenshot from 2023-08-29 23-04-07](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/7ab01d42-e70e-4a48-a4a6-ecf431985ee6)
+
+![Screenshot from 2023-08-29 23-05-24](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/8cbdb5bd-b048-4360-8699-8d66d55f468b)
+
+![Screenshot from 2023-08-29 23-05-49](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/9a6563e6-99e4-4002-961a-47fde29b02ba)
+
+![Screenshot from 2023-08-29 23-06-13](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/12035d21-1ac8-458d-820f-691ce2d0ae03)
+
+![Screenshot from 2023-08-29 23-06-23](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/b15d9a16-596f-42d2-94c7-ff3dc124bfd9)
+
+![Screenshot from 2023-08-29 23-13-00](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/ff15d816-f58b-4ef0-ad6a-6493d06f0161)
+
+![Screenshot from 2023-08-29 23-27-20](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/78ca3026-4b26-4b76-bf6f-b00316b31bd6)
+
+![Screenshot from 2023-08-29 23-27-29](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/a72e99a2-8065-4ad9-aa2e-58b505f0cf49)
+
+![Screenshot from 2023-08-29 23-37-04](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/43665d07-1921-4fdb-a69e-1a3030174dc9)
+
+![Screenshot from 2023-08-29 23-37-33](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/1d74bd7e-2f4e-4fa6-b9a8-b65ed6c1a316)
+
+![Screenshot from 2023-08-29 23-37-46](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/b89e0c04-30b5-4907-8462-66fe472433cf)
+![Screenshot from 2023-08-29 23-39-42](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/28dc5d70-bc97-4458-b085-2c17a5a41bd4)
+
+![Screenshot from 2023-08-29 23-39-24](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/3322a0d5-23cf-43ac-8c42-7cbe1054126c)
 
 
 </details>
@@ -288,6 +357,52 @@ Steps:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+<details>
+    
+<summary> WEEK-2 -> Day - 3 </summary>
+# Combinational and Sequetial Optimisations
+-Introduction to Optimisation
+
+-Combinational Logic Optimisation
+
+-Sequential Logic Optimisationa
+
+-Sequential Optimization for Unused Outputs
+
+
+
+
+
+</details>
+
+
+
+<details>
+    
+<summary> WEEK-2 -> Day - 4 </summary>
+# GLS,blocking vs non-blocking and synthesis-Simulation mismatch
+
+-GLS,Synthesis-Simulation mismatch and Blocking/Non-blocking Statements
+    1.GLS Conepts and Flow using iverliog
+    2.Synthesis Simulation Mismatch
+    3.Blocking and non-blocking statements in verilog
+    4.caveats with blocking statements
+-Labs on GLS and Synthesis-Simulatuion Mismatch
+
+-Labs on synth-sim mismatch for blocking statement
+
+</details>
 
 
 
