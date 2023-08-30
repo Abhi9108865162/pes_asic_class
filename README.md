@@ -377,13 +377,13 @@ Steps:
     
 <summary> WEEK-2 -> Day - 3 </summary>
 # Combinational and Sequetial Optimisations
--Introduction to Optimisation
+- Introduction to Optimisation
 
--Combinational Logic Optimisation
+- Combinational Logic Optimisation
 
--Sequential Logic Optimisationa
+- Sequential Logic Optimisationa
 
--Sequential Optimization for Unused Outputs
+- Sequential Optimization for Unused Outputs
 
 
 
@@ -398,14 +398,14 @@ Steps:
 <summary> WEEK-2 -> Day - 4 </summary>
 # GLS,blocking vs non-blocking and synthesis-Simulation mismatch
 
--GLS,Synthesis-Simulation mismatch and Blocking/Non-blocking Statements
-    1.GLS Conepts and Flow using iverliog
-    2.Synthesis Simulation Mismatch
-    3.Blocking and non-blocking statements in verilog
-    4.caveats with blocking statements
--Labs on GLS and Synthesis-Simulatuion Mismatch
+- GLS,Synthesis-Simulation mismatch and Blocking/Non-blocking Statements
+    1. GLS Conepts and Flow using iverliog
+    2. Synthesis Simulation Mismatch
+    3. Blocking and non-blocking statements in verilog
+    4. caveats with blocking statements
+- Labs on GLS and Synthesis-Simulatuion Mismatch
 
--Labs on synth-sim mismatch for blocking statement
+- Labs on synth-sim mismatch for blocking statement
 
 </details>
 
