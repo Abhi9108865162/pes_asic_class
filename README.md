@@ -380,7 +380,10 @@ Steps:
 # Combinational and Sequetial Optimisations
 
 - Introduction to Optimisation
-  
+
+
+
+
     1. Combinational Logic Optimisation
   
 ![Screenshot from 2023-08-30 22-23-48](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/36701a6c-1fff-4fd8-84a4-2a308b01182c)
