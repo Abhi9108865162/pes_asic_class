@@ -480,7 +480,113 @@ Steps:
 
 
 
+
 - Sequential Logic Optimisation
+
+
+  ## Verliog code for dff_const1
+![Screenshot from 2023-08-31 22-03-26](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/a864479d-1071-4f15-9aeb-700ad8407daf)
+
+## GTKwave form for dff_const1
+![Screenshot from 2023-08-31 20-50-42](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/8d2ae770-3e06-4c96-98c0-3829f9fe5445)
+![Screenshot from 2023-08-31 20-50-46](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/e3c76d34-e33c-4518-9292-e49b1342f854)
+
+
+  ## Using Yosys implemention of dff_const1
+![Screenshot from 2023-08-31 20-56-27](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/44149bcc-830c-451d-8819-78f539b69c00)
+
+![Screenshot from 2023-08-31 20-56-41](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/a35e05c3-8b2b-4c64-8841-79b8b4cb9987)
+![Screenshot from 2023-08-31 20-56-59](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/b7649d5b-efc6-4a26-9a7b-ec08aadcfdc0)
+![Screenshot from 2023-08-31 20-57-06](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/63e61d25-a325-4ae8-8f53-43a35de73b6c)
+![Screenshot from 2023-08-31 20-57-16](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/34d45be4-feec-46b8-bdd1-b50f8024f805)
+
+
+
+
+  ## Verliog code for dff_const2
+![Screenshot from 2023-08-31 22-03-36](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/9415b54b-eca1-47b1-81bb-80e9529483a3)
+
+
+## GTKwave form for dff_const2
+![Screenshot from 2023-08-31 20-53-27](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/0b1a29aa-6dce-43ac-b25d-6ea75ce318c8)
+![Screenshot from 2023-08-31 20-53-36](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/e4e9aa7e-025f-44e0-ab42-9fa4ca4d7e0c)
+
+
+  ## Using Yosys implemention of dff_const2
+![Screenshot from 2023-08-31 20-59-15](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/e5bd29f0-dac6-4dcb-98ed-b4d24bdef7ef)
+![Screenshot from 2023-08-31 20-59-41](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/b165d953-03a9-4512-bb9c-3a650cbe287c)
+![Screenshot from 2023-08-31 20-59-52](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/ed216e9b-19b3-4f02-81a5-ca551a8d6dea)
+![Screenshot from 2023-08-31 21-00-01](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/9bd15cab-1768-4dee-a0e8-31704e45ad6e)
+
+
+
+
+
+  ## Verliog code for dff_const3
+![Screenshot from 2023-08-31 22-03-47](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/8f072550-2e72-45e6-be8f-d711974232bf)
+
+
+## GTKwave form for dff_const3
+![Screenshot from 2023-09-01 00-43-20](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/3907e109-5132-43b6-aec5-952c3828d61b)
+
+
+  ## Using Yosys implemention of dff_const3
+![Screenshot from 2023-08-31 22-08-00](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/bcdd1210-575b-489d-9d8b-3ce10db965f7)
+![Screenshot from 2023-08-31 22-08-12](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/97008c1b-3991-4534-8584-f1d4dbf9ad01)
+
+![Screenshot from 2023-08-31 22-08-28](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/4e44f80f-dc65-47f3-a8c9-0c645a7817c2)
+
+![Screenshot from 2023-08-31 22-08-37](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/186e6134-d34e-4aa1-9d0f-015df65dbe16)
+
+![Screenshot from 2023-08-31 22-08-52](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/75398475-7ee8-4c99-b99b-b3a7a8b2f925)
+
+
+
+
+
+
+  ## Verliog code for dff_const4
+![Screenshot from 2023-08-31 22-04-48](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/f14ad186-bb0d-488b-9f5c-08fda5cb335b)
+
+
+
+## GTKwave form for dff_const4
+![Screenshot from 2023-09-01 00-44-40](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/7fd4435c-5d58-40d6-843e-12b97d1ac86d)
+
+
+
+  ## Using Yosys implemention of dff_const4
+![Screenshot from 2023-08-31 22-11-27](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/bce9c131-be04-447d-9b0a-cc9eb05929e3)
+
+![Screenshot from 2023-08-31 22-11-41](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/9e31ea79-a061-4411-afd8-095a5dd36891)
+
+![Screenshot from 2023-08-31 22-11-51](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/b8699b80-af54-44fe-8ad3-c26531a3ce18)
+
+
+![Screenshot from 2023-08-31 22-12-27](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/156736d6-b0c1-4a29-973d-5e388cf25ca7)
+
+
+
+  ## Verliog code for dff_const5
+![Screenshot from 2023-08-31 22-05-45](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/c4a69cdb-de61-4c8d-b7ef-630963f7ba65)
+
+
+
+## GTKwave form for dff_const5
+![Screenshot from 2023-09-01 00-47-00](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/4092a9d7-2b0c-4997-95a9-2f54d5ff5c25)
+
+![Screenshot from 2023-09-01 00-47-08](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/a5e4be43-53a8-4720-ac6e-91ae2004a2f6)
+
+
+  ## Using Yosys implemention of dff_const5
+![Screenshot from 2023-08-31 22-13-47](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/b682947f-61c8-4608-9a14-49c8bae51b66)
+
+![Screenshot from 2023-08-31 22-13-57](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/52d057b9-27e5-4192-adfc-ab9893de8d7d)
+![Screenshot from 2023-08-31 22-14-20](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/744d5ae0-f3fb-4139-ae74-dd59c784b398)
+
+![Screenshot from 2023-08-31 22-14-28](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/fb995170-7887-4aa7-9c6e-67fed35c3228)
+![Screenshot from 2023-08-31 22-14-37](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/6f2ef0e5-ca1b-433f-83d6-b38e324b666c)
+
 
 - Sequential Optimization for Unused Outputs
 
