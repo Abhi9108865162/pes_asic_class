@@ -589,9 +589,41 @@ Steps:
 
 
 - Sequential Optimization for Unused Outputs
+  ## Verliog code for counter_opt
+![Screenshot from 2023-09-01 09-29-03](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/8a40f6cd-8451-421e-a61d-0920330b675a)
+
+  
+## Pratical implemention of counter_opt
+![Screenshot from 2023-09-01 09-51-27](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/387c39ec-2a56-4321-a5c4-06049acc70b5)
+
+ 
+ 
+ ## Using Yosys implemention of counter_opt
+![Screenshot from 2023-09-01 09-30-34](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/31b78ba2-9cbe-4101-9c22-03f9b480163b)
+![Screenshot from 2023-09-01 09-30-46](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/e9d20f76-ae8c-47ca-8d29-6a0abd447332)
+![Screenshot from 2023-09-01 09-31-00](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/4761bc9e-c58c-4c73-a508-b380961bc8bb)
+![Screenshot from 2023-09-01 09-31-46](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/a3d3f29b-dfbf-4d90-83ac-50015834793f)
 
 
 
+
+ 
+ ## Verliog code for counter_opt2
+![Screenshot from 2023-09-01 09-49-18](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/f523d213-ccf3-4e6c-a523-27f03f9ec03b)
+
+## Pratical implemention of counter_opt2
+![Screenshot from 2023-09-01 09-22-21](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/f78a376e-11a6-4944-b25c-06ffa05b2b23)
+![Screenshot from 2023-09-01 09-26-19](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/f6686619-2611-4b06-aa98-be9e9fdce94e)
+
+ 
+ 
+ ## Using Yosys implemention of counter_opt2
+![Screenshot from 2023-09-01 09-41-26](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/5bf2cc47-43ec-4f89-83fb-d0b23babc398)
+![Screenshot from 2023-09-01 09-41-37](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/3dab84d8-e89b-4723-a5ee-b5827c2579c1)
+
+![Screenshot from 2023-09-01 09-41-47](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/3d7ba26b-db3b-427d-97db-351a2d6a6488)
+![Screenshot from 2023-09-01 09-41-54](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/fe9b6f70-f655-462c-b79e-c0c5ff368242)
+![Screenshot from 2023-09-01 09-42-04](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/715d17e5-7059-414f-ba3d-c2c492a07dbe)
 
 
 </details>
