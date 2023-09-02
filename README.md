@@ -636,10 +636,32 @@ Steps:
 # GLS,blocking vs non-blocking and synthesis-Simulation mismatch
 
 - GLS,Synthesis-Simulation mismatch and Blocking/Non-blocking Statements
+  
     1. GLS Conepts and Flow using iverliog
+   ![Screenshot from 2023-09-02 11-07-09](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/c0abbb14-6826-403d-a246-7821b470205d)
+![Screenshot from 2023-09-02 11-10-12](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/b70c16b7-dc23-4aa1-bc05-9ad5ba6bb9fd)
+
+![Screenshot from 2023-09-02 11-18-21](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/8b7c981e-5cc8-4b90-a1e8-7d9337976057)
+
+
     2. Synthesis Simulation Mismatch
+
+![Screenshot from 2023-09-02 11-19-18](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/cc5ec975-e0ab-4953-b123-5c68e2cf8095)
+![Screenshot from 2023-09-02 11-27-19](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/b9700152-f724-4788-be0a-5cb7b2c977c3)
+
+    
     3. Blocking and non-blocking statements in verilog
+    
+![Screenshot from 2023-09-02 11-30-56](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/f2b82778-2cf8-497d-8eaf-f767c2362831)
+
+![Screenshot from 2023-09-02 11-41-25](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/867101ca-38cd-4862-a1f1-932ce5e26a38)
+
+![Screenshot from 2023-09-02 11-43-45](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/57e98768-d4ab-47f0-bd17-6ddd6c42f57b)
+
     4. caveats with blocking statements
+![Screenshot from 2023-09-02 11-50-33](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/74d216cc-1637-4ecc-a20f-77ea28799f9a)
+
+
 - Labs on GLS and Synthesis-Simulatuion Mismatch
 
 - Labs on synth-sim mismatch for blocking statement
