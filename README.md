@@ -663,6 +663,20 @@ Steps:
 
 
 - Labs on GLS and Synthesis-Simulatuion Mismatch
+  
+  ![Screenshot from 2023-09-03 13-06-23](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/abcd5229-cd93-4b6d-ba39-1366e9e1b1e9)
+
+![Screenshot from 2023-09-03 12-52-55](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/5a48f82c-e270-4bed-90cc-d34efaed6b70)
+
+![Screenshot from 2023-09-03 14-17-14](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/0f239e86-2052-4270-a9f0-c6fe1c70ad3d)
+![Screenshot from 2023-09-03 12-52-48](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/53ee19d2-3146-4241-8149-45caf84ff72b)
+
+![Screenshot from 2023-09-03 14-18-50](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/0fab181d-5fc6-45c3-99fa-951212943505)
+![Screenshot from 2023-09-03 14-19-00](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/7d6b57d7-b34c-4d9f-bfe0-884032f76c56)
+
+
+
+![Screenshot from 2023-09-03 12-52-55](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/4d285e74-a8dc-4408-acb3-256c7096f5f0)
 
 - Labs on synth-sim mismatch for blocking statement
 
