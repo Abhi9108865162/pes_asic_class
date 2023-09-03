@@ -689,7 +689,17 @@ Steps:
 
 - Labs on synth-sim mismatch for blocking statement
 
+![Screenshot from 2023-09-03 16-51-26](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/23f56216-ed93-4706-945b-5c579807fb69)
+
+![Screenshot from 2023-09-03 17-13-09](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/a5e91d1b-e446-4daa-b35d-7cd2f08c5719)
+![Screenshot from 2023-09-03 17-16-59](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/b0ce27f5-e98a-445f-b6c7-f64749f05290)
+
+![Screenshot from 2023-09-03 17-14-17](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/a62de006-3bf0-4345-a742-590b2f61882b)
+
+
+
 </details>
+
 
 
 
