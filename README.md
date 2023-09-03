@@ -674,7 +674,7 @@ Steps:
 ![Screenshot from 2023-09-03 14-18-50](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/0fab181d-5fc6-45c3-99fa-951212943505)
 ![Screenshot from 2023-09-03 14-19-00](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/7d6b57d7-b34c-4d9f-bfe0-884032f76c56)
 ![Screenshot from 2023-09-03 13-01-59](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/9addf27f-df01-48c5-aaf5-e5be9dee49ed)
- ### By GSL
+ ### By GLS
  ![Screenshot from 2023-09-03 14-39-41](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/29eed1aa-bf52-4866-93f7-f59daa4f2636)
 ![Screenshot from 2023-09-03 14-42-31](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/8202e911-ec46-43b7-9513-730f72d6a0ba)
 
