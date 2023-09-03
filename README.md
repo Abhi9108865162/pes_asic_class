@@ -673,10 +673,8 @@ Steps:
 
 ![Screenshot from 2023-09-03 14-18-50](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/0fab181d-5fc6-45c3-99fa-951212943505)
 ![Screenshot from 2023-09-03 14-19-00](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/7d6b57d7-b34c-4d9f-bfe0-884032f76c56)
+![Screenshot from 2023-09-03 13-01-59](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/9addf27f-df01-48c5-aaf5-e5be9dee49ed)
 
-
-
-![Screenshot from 2023-09-03 12-52-55](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/4d285e74-a8dc-4408-acb3-256c7096f5f0)
 
 - Labs on synth-sim mismatch for blocking statement
 
