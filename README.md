@@ -843,9 +843,22 @@ Steps:
 
 1. Chip Floor planning considerations
     - Utilization factor and aspect ratio
-      
+![Screenshot from 2023-09-09 17-05-21](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/a6b04b88-19c9-4bf4-b50c-c66b82a97f83)
+![Screenshot from 2023-09-09 17-08-01](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/f4b2e552-ccd6-4f1a-85f2-fff1659e7bea)
+![Screenshot from 2023-09-09 17-08-30](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/7006410d-f0fb-451c-9e88-575f2f5549c5)
+![Screenshot from 2023-09-09 17-09-27](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/355baa94-6ad0-4501-9c35-7406f43fc1c2)
+![Screenshot from 2023-09-09 17-10-34](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/3f8e1c2e-4089-45f8-b1b5-186b0969adfb)
+![Screenshot from 2023-09-09 17-11-36](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/4ccebca1-f5c7-453a-bb0d-f1f77a676b02)
+![Screenshot from 2023-09-09 17-15-06](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/f4dbf488-9808-4a73-8042-e39d7434fe19)
+![Screenshot from 2023-09-09 17-16-26](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/5d032cf3-79aa-4d43-bb8a-d4bf65d3b120)
+![Screenshot from 2023-09-09 17-17-25](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/8286b4c6-787d-45bf-9f4e-0c4645b41283)
     - Concept of pre-placed cells
-      
+
+
+
+
+
+
     - De-coupling capacitors
       
     - Power planning
@@ -859,7 +872,7 @@ Steps:
     - Review floorplan layout in Magic
     
       
-2. Library Binding and Placement
+1. Library Binding and Placement
     - Netlist binding and initial place design
       
     - Optimize placement using estimated wire-length and capacitance
@@ -870,7 +883,7 @@ Steps:
       
     - Congestion aware placement using RePlAce
      
-3. Cell design and characterization flows
+2. Cell design and characterization flows
     - Inputs for cell design flow
       
     - Circuit design step
@@ -879,7 +892,7 @@ Steps:
       
     - Typical characterization flow
     
-4. General timing characterization parameters
+3. General timing characterization parameters
     - Timing threshold definitions
           
     - Propagation delay and transition time
