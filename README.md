@@ -721,13 +721,13 @@ Steps:
 
 1. How to talk to computers
 
-    - Introduction to QFN-48 Package, chip, pads, core, die and IPs
+- ### Introduction to QFN-48 Package, chip, pads, core, die and IPs
 ![Screenshot from 2023-09-09 06-02-29](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/695b807a-7c14-477f-b8b7-a8670f9b223c)
 ![Screenshot from 2023-09-09 06-02-48](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/faa79ff0-b5fd-44f1-9a21-99d3f6612064)
 ![Screenshot from 2023-09-09 06-07-35](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/742e86b7-2dce-46b0-83eb-384c006be7c7)
-    - Introduction to RISC-V 
+- ### Introduction to RISC-V 
 ![Screenshot from 2023-09-09 06-15-32](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/142bf0d9-c983-4620-b9cd-3f8d8e0607f0)
-   - From Software Applications to Hardware
+- ### From Software Applications to Hardware
 ![Screenshot from 2023-09-09 06-23-14](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/f974b6c9-427b-4f43-944e-da9699ead689)
 ![Screenshot from 2023-09-09 06-26-47](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/d802184a-2295-4295-81a1-f79b7e9ba0e6)
 ![Screenshot from 2023-09-09 06-30-01](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/cdd950e9-6753-4ea1-8bcc-fee87249efb4)
@@ -741,7 +741,7 @@ Steps:
       
 2. SoC design and OpenLANE
    
-    - Introduction to all components of open-source digital asic design
+- ### Introduction to all components of open-source digital asic design
 ![Screenshot from 2023-09-09 07-30-03](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/2a1a0387-6815-4d47-9b28-f324726ba4e4)  
 ![Screenshot from 2023-09-09 07-30-14](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/b2ce9eef-6a3c-4358-b504-d7b54ce921a8)
 ![Screenshot from 2023-09-09 06-43-40](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/bb816d18-16bf-44de-a2f9-7ecbc7b24c03)
@@ -752,9 +752,7 @@ Steps:
 ![Screenshot from 2023-09-09 06-49-03](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/e54fcea7-42be-480a-a5d6-ffd8eec77cc7)
 ![Screenshot from 2023-09-09 07-34-31](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/e4f18abc-577b-4d5f-b0f6-0aae6aa5eccb)
 ![Screenshot from 2023-09-09 07-34-37](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/53018ea5-a708-4c76-ac49-c5bac92afaeb)
-
-
-    - Simplified RTL2GDS flow
+- ### Simplified RTL2GDS flow
 ![Screenshot from 2023-09-09 06-50-24](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/ad4bef26-0f88-4170-8d06-19360aad0b7c)
 ![Screenshot from 2023-09-09 06-54-30](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/23483640-fa8e-4dc1-80b7-e65a3069d7e3)
 ![Screenshot from 2023-09-09 06-55-10](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/927c00cb-7b48-4565-b3b7-3282d3337a68)
@@ -767,13 +765,34 @@ Steps:
 ![Screenshot from 2023-09-09 07-02-13](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/c23008a0-a1c0-4e67-a558-741c2283f4a9)
 ![Screenshot from 2023-09-09 07-03-37](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/af26b1b7-c8ed-4d63-b2b7-cb1d3da1ac23)
 ![Screenshot from 2023-09-09 07-04-06](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/ad0a4962-74f4-4b95-a67c-b7ecb85bedc8)
+- ### Introduction to OpenLANE and Strive chipsets
 
-    - Introduction to OpenLANE and Strive chipsets
+![Screenshot from 2023-09-09 09-56-50](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/74a6c5ef-984b-43cc-b52a-c81a6f822f74)
+![Screenshot from 2023-09-09 09-57-17](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/0019dce8-b9b6-4102-b53a-e186d8041eb2)
+![Screenshot from 2023-09-09 10-13-30](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/76bead52-2eb4-44ed-b9fe-765bf1a0147f)
+![Screenshot from 2023-09-09 10-16-34](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/7e1e519e-cf03-466c-9edd-7c34e74717be)
+![Screenshot from 2023-09-09 10-19-49](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/7baaa97b-3c29-4950-bbe1-622432301339)
+
+
+- ### Introduction to OpenLANE detailed ASIC design flow 
+![Screenshot from 2023-09-09 10-23-05](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/aac57c8c-303b-461a-bac2-9f5319aee1b6)
+![Screenshot from 2023-09-09 10-23-27](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/ff0b2373-df5a-4580-92b7-a88c487dd07a)
+![Screenshot from 2023-09-09 10-24-50](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/efb4bc96-c5e0-47b0-85f2-6d1b7409de76)
+
+![Screenshot from 2023-09-09 10-25-18](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/d7d6efb8-0152-4252-9c27-9c5d74a5f61d)
+![Screenshot from 2023-09-09 10-27-43](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/53a62565-a0a0-4df6-a37c-494ee9908c4f)
+![Screenshot from 2023-09-09 10-28-38](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/1ea49299-82b4-4bf6-9fda-1ff3cd8f0d23)
+![Screenshot from 2023-09-09 10-29-18](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/2050278f-83ac-4e0b-826d-8a2a5eaeecaf)
+![Screenshot from 2023-09-09 10-30-55](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/89db9c39-d2b6-474e-b8e4-8fa3855468f6)
+![Screenshot from 2023-09-09 10-31-22](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/050c1721-ef33-440b-9be8-ae29f4d4cae6)
+![Screenshot from 2023-09-09 10-33-23](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/e5ffc34f-cf90-4454-9985-86e730600d53)
+![Screenshot from 2023-09-09 10-34-00](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/267af47b-d5f1-4f84-a7ee-c15f2c54630f)
+![Screenshot from 2023-09-09 10-34-23](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/590931b7-1c65-430e-8158-13641ce78cb8)
+![Screenshot from 2023-09-09 10-35-53](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/e6d17ffb-1504-402c-9cf8-ab1de64043bf)
+![Screenshot from 2023-09-09 10-36-10](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/08a6587a-b2f8-4b07-9214-a61df3cf02ad)
 
 
 
-
-    - Introduction to OpenLANE detailed ASIC design flow 
 
 
 
