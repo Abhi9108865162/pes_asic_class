@@ -868,6 +868,9 @@ Steps:
 ![Screenshot from 2023-09-09 17-56-27](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/f27dab67-a579-4fcb-8d84-415ecb7faac3)
 ![Screenshot from 2023-09-09 17-58-49](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/61a310d2-eb5a-4776-93d6-e69daad3e199) 
     - Power planning
+![Screenshot from 2023-09-09 18-01-50](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/bde6a89f-1814-446e-8e0d-b83767c44984)
+![Screenshot from 2023-09-09 18-07-14](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/6284c266-648b-4272-8afc-436430428fc9)
+![Screenshot from 2023-09-09 18-10-06](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/56bcf7fd-b5d7-48d2-bb63-123729a22b1a)
 
 
 
