@@ -887,14 +887,11 @@ Steps:
 ![Screenshot from 2023-09-09 22-01-13](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/07b99ebf-23c1-408b-ad4c-97d8b694e428)
 ![Screenshot from 2023-09-09 22-04-25](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/4c724b84-67fb-46a7-9615-ac38955722c4)
 ![Screenshot from 2023-09-09 22-04-41](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/14f1fa11-c58b-49c9-bf7e-6aee538776bb)
-
-
-
-
-
-
-      
 - ### Steps to run floorplan using OpenLANE
+
+
+
+
       
 - ### Review floorplan files and steps to view floorplan
 
