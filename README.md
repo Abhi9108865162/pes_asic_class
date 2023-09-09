@@ -852,13 +852,13 @@ Steps:
 ![Screenshot from 2023-09-09 17-15-06](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/f4dbf488-9808-4a73-8042-e39d7434fe19)
 ![Screenshot from 2023-09-09 17-16-26](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/5d032cf3-79aa-4d43-bb8a-d4bf65d3b120)
 ![Screenshot from 2023-09-09 17-17-25](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/8286b4c6-787d-45bf-9f4e-0c4645b41283)
+![Screenshot from 2023-09-09 17-27-14](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/84fdc0b9-e7ff-4a33-8825-d36e936d17a0)
     - Concept of pre-placed cells
-
-
-
-
-
-
+![Screenshot from 2023-09-09 17-27-47](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/7326d5c8-4fcd-4d4e-aa60-79a64b6e743a)
+![Screenshot from 2023-09-09 17-30-01](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/d9596c35-dbbe-4d5f-97ac-8eb9e9575863)
+![Screenshot from 2023-09-09 17-31-16](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/32c864ba-de42-48e9-a35f-a18d2ab41d46)
+![Screenshot from 2023-09-09 17-31-30](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/40f12baa-f590-4a57-af24-245145946b65)
+![Screenshot from 2023-09-09 17-36-06](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/28b67020-01c1-4833-8414-b51dd858455c)
     - De-coupling capacitors
       
     - Power planning
