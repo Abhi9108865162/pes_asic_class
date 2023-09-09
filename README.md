@@ -799,7 +799,11 @@ Steps:
 3. Get familiar to open-source EDA tools
 
    - OpenLANE Directory structure in detail
-     
+    ![VirtualBox_PES_physical_design_09_09_2023_12_41_45](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/0b10a680-5228-48d9-9c51-54482cfe4434)
+![VirtualBox_PES_physical_design_09_09_2023_12_42_38](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/334584a0-022f-4a19-86b6-bede9905a115)
+![VirtualBox_PES_physical_design_09_09_2023_12_56_32](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/4efe581e-d324-415e-8f3a-cd3879239809)
+
+
    - Design Preparation Step
 
      
