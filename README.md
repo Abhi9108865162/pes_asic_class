@@ -818,7 +818,13 @@ Steps:
 
      
    - Review files after design prep and run synthesis
-     
+
+![VirtualBox_PES_physical_design_09_09_2023_14_18_21](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/d33d509e-261d-4c96-85a0-1049b5bb76b7)
+![VirtualBox_PES_physical_design_09_09_2023_14_18_43](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/271d6aa4-e4a6-4299-af29-01e1d059b52b)
+![VirtualBox_PES_physical_design_09_09_2023_14_23_49](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/6aee9d70-bbd8-4a1b-be5d-892a381df571)
+![VirtualBox_PES_physical_design_09_09_2023_14_24_16 (copy)](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/5b26da08-c581-4992-9717-f30bd0052508)
+![VirtualBox_PES_physical_design_09_09_2023_14_34_27](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/d8ccba8e-9346-4f0e-bc95-4404eca91147)
+
    - OpenLANE Project Git Link Description
 
      
