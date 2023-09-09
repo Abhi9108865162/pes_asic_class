@@ -806,6 +806,16 @@ Steps:
 
    - Design Preparation Step
 
+![VirtualBox_PES_physical_design_09_09_2023_13_13_16](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/3f1994c9-cece-40fe-b0c1-1f3b18aa5a9d)
+
+![VirtualBox_PES_physical_design_09_09_2023_13_17_33](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/3addbae5-2509-4506-bd7c-3f361e7c3b15)
+
+![VirtualBox_PES_physical_design_09_09_2023_13_09_55](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/754e2dac-b1af-48cf-a580-787128371e9e)
+
+![VirtualBox_PES_physical_design_09_09_2023_13_22_05](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/d432b3aa-0935-406c-a4d2-85ec2caaa87b)
+
+
+
      
    - Review files after design prep and run synthesis
      
