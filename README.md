@@ -841,8 +841,8 @@ Steps:
     
 # Good floorplan vs bad floorplan and introduction to library cells 
 
-1. Chip Floor planning considerations
-    - Utilization factor and aspect ratio
+## 1. Chip Floor planning considerations
+- ### Utilization factor and aspect ratio
 ![Screenshot from 2023-09-09 17-05-21](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/a6b04b88-19c9-4bf4-b50c-c66b82a97f83)
 ![Screenshot from 2023-09-09 17-08-01](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/f4b2e552-ccd6-4f1a-85f2-fff1659e7bea)
 ![Screenshot from 2023-09-09 17-08-30](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/7006410d-f0fb-451c-9e88-575f2f5549c5)
@@ -853,13 +853,13 @@ Steps:
 ![Screenshot from 2023-09-09 17-16-26](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/5d032cf3-79aa-4d43-bb8a-d4bf65d3b120)
 ![Screenshot from 2023-09-09 17-17-25](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/8286b4c6-787d-45bf-9f4e-0c4645b41283)
 ![Screenshot from 2023-09-09 17-27-14](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/84fdc0b9-e7ff-4a33-8825-d36e936d17a0)
-    - Concept of pre-placed cells
+- ### Concept of pre-placed cells
 ![Screenshot from 2023-09-09 17-27-47](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/7326d5c8-4fcd-4d4e-aa60-79a64b6e743a)
 ![Screenshot from 2023-09-09 17-30-01](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/d9596c35-dbbe-4d5f-97ac-8eb9e9575863)
 ![Screenshot from 2023-09-09 17-31-16](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/32c864ba-de42-48e9-a35f-a18d2ab41d46)
 ![Screenshot from 2023-09-09 17-31-30](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/40f12baa-f590-4a57-af24-245145946b65)
 ![Screenshot from 2023-09-09 17-36-06](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/28b67020-01c1-4833-8414-b51dd858455c)
-    - De-coupling capacitors
+- ### De-coupling capacitors
 ![Screenshot from 2023-09-09 17-49-54](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/90ddb5ea-0705-495a-943a-4f18faee94f3)
 ![Screenshot from 2023-09-09 17-50-29](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/5eda99f0-31fa-4d80-9115-0db3f2de834f)
 ![Screenshot from 2023-09-09 17-50-37](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/06ea0d8d-99df-4e5d-8193-17986d795e83)
@@ -867,7 +867,7 @@ Steps:
 ![Screenshot from 2023-09-09 17-54-40](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/460807a7-f1a0-4879-b7b7-c78a5d267d60)
 ![Screenshot from 2023-09-09 17-56-27](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/f27dab67-a579-4fcb-8d84-415ecb7faac3)
 ![Screenshot from 2023-09-09 17-58-49](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/61a310d2-eb5a-4776-93d6-e69daad3e199) 
-    - Power planning
+- ### Power planning
 ![Screenshot from 2023-09-09 18-01-50](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/bde6a89f-1814-446e-8e0d-b83767c44984)
 ![Screenshot from 2023-09-09 18-07-14](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/6284c266-648b-4272-8afc-436430428fc9)
 ![Screenshot from 2023-09-09 18-10-06](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/56bcf7fd-b5d7-48d2-bb63-123729a22b1a)
@@ -875,46 +875,56 @@ Steps:
 ![Screenshot from 2023-09-09 20-48-39](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/ef5d3088-e56d-461f-9ac1-5e27a1c6daf6)
 ![Screenshot from 2023-09-09 21-23-47](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/68aa57e7-b8ed-42ed-8b1c-fb7a2f7f6bd6)
 ![Screenshot from 2023-09-09 21-25-22](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/a8b71c86-3ca3-49c0-8d93-2fda9b9cce5d)
-![Screenshot from 2023-09-09 21-26-49](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/41082afd-9ab0-4f20-bb9c-fd![Screenshot from 2023-09-09 21-27-46](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/f03f7a76-a872-4d36-9d05-60c905a28287)
-9e8fe67435)
+![Screenshot from 2023-09-09 21-26-49](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/e987d3ec-9eed-4493-bb47-71e9ec8296ce)
+![Screenshot from 2023-09-09 21-27-46](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/a1534d99-c024-44bb-a8e8-18657d145dff)
+- ### Pin placement and logical cell placement blockage
+![Screenshot from 2023-09-09 21-52-46](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/b7c1eeb7-e8f1-4c56-a616-954913a75a36)
+![Screenshot from 2023-09-09 21-54-58](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/f058f48b-2b68-4c92-ae8d-df14e73d3ab9)
+![Screenshot from 2023-09-09 21-57-50](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/5f297541-ed9d-447a-9f63-7d4f450e2cfa)
+![Screenshot from 2023-09-09 21-58-19](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/7b74b091-194c-4bed-b54a-72f58ed7d8ab)
+![Screenshot from 2023-09-09 21-59-04](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/033bf491-3c59-4064-ad19-f870b581956b)
+![Screenshot from 2023-09-09 22-01-04](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/554ff639-61a1-428c-b87c-98b2e3b61551)
+![Screenshot from 2023-09-09 22-01-13](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/07b99ebf-23c1-408b-ad4c-97d8b694e428)
+![Screenshot from 2023-09-09 22-04-25](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/4c724b84-67fb-46a7-9615-ac38955722c4)
+![Screenshot from 2023-09-09 22-04-41](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/14f1fa11-c58b-49c9-bf7e-6aee538776bb)
 
 
 
 
 
-    - Pin placement and logical cell placement blockage
+
       
-    - Steps to run floorplan using OpenLANE
+- ### Steps to run floorplan using OpenLANE
       
-    - Review floorplan files and steps to view floorplan
-      
-    - Review floorplan layout in Magic
+- ### Review floorplan files and steps to view floorplan
+
+- ### Review floorplan layout in Magic
     
       
-1. Library Binding and Placement
-    - Netlist binding and initial place design
+## 2. Library Binding and Placement
+- ### Netlist binding and initial place design
       
-    - Optimize placement using estimated wire-length and capacitance
+- ### Optimize placement using estimated wire-length and capacitance
       
-    - Final placement optimization
+- ### Final placement optimization
       
-    - Need for libraries and characterization
+- ### Need for libraries and characterization
       
-    - Congestion aware placement using RePlAce
+- ### Congestion aware placement using RePlAce
      
-2. Cell design and characterization flows
-    - Inputs for cell design flow
+## 3. Cell design and characterization flows
+- ### Inputs for cell design flow
       
-    - Circuit design step
+- ### Circuit design step
       
-    - Layout design step
+- ### Layout design step
       
-    - Typical characterization flow
+- ### Typical characterization flow
     
-3. General timing characterization parameters
-    - Timing threshold definitions
+## 4. General timing characterization parameters
+- ### Timing threshold definitions
           
-    - Propagation delay and transition time
+- ### ropagation delay and transition time
 
 </details>
 
