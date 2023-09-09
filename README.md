@@ -860,9 +860,19 @@ Steps:
 ![Screenshot from 2023-09-09 17-31-30](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/40f12baa-f590-4a57-af24-245145946b65)
 ![Screenshot from 2023-09-09 17-36-06](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/28b67020-01c1-4833-8414-b51dd858455c)
     - De-coupling capacitors
-      
+![Screenshot from 2023-09-09 17-49-54](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/90ddb5ea-0705-495a-943a-4f18faee94f3)
+![Screenshot from 2023-09-09 17-50-29](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/5eda99f0-31fa-4d80-9115-0db3f2de834f)
+![Screenshot from 2023-09-09 17-50-37](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/06ea0d8d-99df-4e5d-8193-17986d795e83)
+![Screenshot from 2023-09-09 17-54-13](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/b8e21e2c-c497-4d18-8a71-230a85b37d91)
+![Screenshot from 2023-09-09 17-54-40](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/460807a7-f1a0-4879-b7b7-c78a5d267d60)
+![Screenshot from 2023-09-09 17-56-27](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/f27dab67-a579-4fcb-8d84-415ecb7faac3)
+![Screenshot from 2023-09-09 17-58-49](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/61a310d2-eb5a-4776-93d6-e69daad3e199) 
     - Power planning
-      
+
+
+
+
+
     - Pin placement and logical cell placement blockage
       
     - Steps to run floorplan using OpenLANE
