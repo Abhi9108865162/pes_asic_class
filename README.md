@@ -1,4 +1,4 @@
-# VLSI Physical Design For ASIC
+![Screenshot from 2023-09-09 06-15-15](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/b2ab3c99-639e-4a5b-88b3-027dfaf8ed87)# VLSI Physical Design For ASIC
 <br>
 
 This course provides a comprehensive understanding of chip design using the RISC-V architecture. It covers key topics like design cycles, specifications, and SoC development. Students learn about analog IPs, mixed-signal flows, and gain hands-on experience with RISC-V-based SoC design. The curriculum also introduces process design kits, libraries, Verilog RTL design, synthesis, and the RTL-to-GDS flow for complete chip development. The course offers both theoretical insights and practical labs to equip students with essential skills in chip design.
@@ -101,6 +101,7 @@ We wrote a C program that shows the maximum and minimum values of 64bit unsigned
     
 
 <summary> WEEK 1 -> Day - 2</summary>
+
 # Using ABI (Application Binary Interface) function calls in lab work typically involves working with low-level programming languages like Assembly or understanding how different programming languages interact at the binary level. Here's a general outline of what lab work involving ABI function calls might entail:
 
 ## Lab Objective: To understand and demonstrate the usage of ABI function calls in programming.
@@ -707,6 +708,287 @@ Steps:
 ![Screenshot from 2023-09-03 17-32-08](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/dddcc749-2a80-4d46-9bce-58661c858737)
 
 </details>
+
+
+
+
+
+<details>
+    
+<summary> WEEK-3 -> Day - 1 </summary>
+
+# Inception of open-source EDA,Openlane and sky130 PDK
+
+1. How to talk to computers
+
+    - Introduction to QFN-48 Package, chip, pads, core, die and IPs
+![Screenshot from 2023-09-09 06-02-29](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/695b807a-7c14-477f-b8b7-a8670f9b223c)
+![Screenshot from 2023-09-09 06-02-48](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/faa79ff0-b5fd-44f1-9a21-99d3f6612064)
+![Screenshot from 2023-09-09 06-07-35](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/742e86b7-2dce-46b0-83eb-384c006be7c7)
+    - Introduction to RISC-V 
+![Screenshot from 2023-09-09 06-15-32](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/142bf0d9-c983-4620-b9cd-3f8d8e0607f0)
+   - From Software Applications to Hardware
+![Screenshot from 2023-09-09 06-23-14](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/f974b6c9-427b-4f43-944e-da9699ead689)
+![Screenshot from 2023-09-09 06-26-47](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/d802184a-2295-4295-81a1-f79b7e9ba0e6)
+![Screenshot from 2023-09-09 06-30-01](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/cdd950e9-6753-4ea1-8bcc-fee87249efb4)
+![Screenshot from 2023-09-09 06-30-17](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/8cdbb1c6-58af-496a-86e2-7e2200f86ccf)
+![Screenshot from 2023-09-09 06-32-25](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/094a034a-0e0e-4b05-b99c-9552eb722f55)
+![Screenshot from 2023-09-09 06-33-01](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/ea956daf-6700-4e58-9b79-fb8ddfc07757)
+
+
+
+
+      
+2. SoC design and OpenLANE
+   
+    - Introduction to all components of open-source digital asic design
+![Screenshot from 2023-09-09 07-30-03](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/2a1a0387-6815-4d47-9b28-f324726ba4e4)  
+![Screenshot from 2023-09-09 07-30-14](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/b2ce9eef-6a3c-4358-b504-d7b54ce921a8)
+![Screenshot from 2023-09-09 06-43-40](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/bb816d18-16bf-44de-a2f9-7ecbc7b24c03)
+![Screenshot from 2023-09-09 06-45-28](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/2d8de8b3-1cea-408b-95f0-27dbdcd5ede1)
+![Screenshot from 2023-09-09 06-46-09](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/6d7165ed-10e0-49d1-9c83-ae9aff5e4cdd)
+![Screenshot from 2023-09-09 06-47-05](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/c816f90f-96de-4738-a5bf-499f7bd9d9e8)
+![Screenshot from 2023-09-09 07-34-16](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/3b39394e-e429-4a70-9b45-b0f72980b228)
+![Screenshot from 2023-09-09 06-49-03](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/e54fcea7-42be-480a-a5d6-ffd8eec77cc7)
+![Screenshot from 2023-09-09 07-34-31](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/e4f18abc-577b-4d5f-b0f6-0aae6aa5eccb)
+![Screenshot from 2023-09-09 07-34-37](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/53018ea5-a708-4c76-ac49-c5bac92afaeb)
+
+
+    - Simplified RTL2GDS flow
+![Screenshot from 2023-09-09 06-50-24](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/ad4bef26-0f88-4170-8d06-19360aad0b7c)
+![Screenshot from 2023-09-09 06-54-30](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/23483640-fa8e-4dc1-80b7-e65a3069d7e3)
+![Screenshot from 2023-09-09 06-55-10](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/927c00cb-7b48-4565-b3b7-3282d3337a68)
+![Screenshot from 2023-09-09 06-58-08](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/a19983cf-39c5-46dd-b646-62aeeeddaabb)
+![Screenshot from 2023-09-09 06-57-16](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/03237927-fcc2-4cbe-ab00-9c1c2065dafe)
+![Screenshot from 2023-09-09 06-58-53](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/61eb09a3-b04e-4baf-8dd1-11641bc32fa6)
+![Screenshot from 2023-09-09 06-59-58](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/db4f7e9b-28dd-4ac3-84e5-b24d0153f1e4)
+![Screenshot from 2023-09-09 07-00-31](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/2f75fbe5-f039-4fb8-bcc1-d90967c24cb9)
+![Screenshot from 2023-09-09 07-01-23](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/3947b886-8f2b-4902-b27a-e03052bf1a56)
+![Screenshot from 2023-09-09 07-02-13](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/c23008a0-a1c0-4e67-a558-741c2283f4a9)
+![Screenshot from 2023-09-09 07-03-37](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/af26b1b7-c8ed-4d63-b2b7-cb1d3da1ac23)
+![Screenshot from 2023-09-09 07-04-06](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/ad0a4962-74f4-4b95-a67c-b7ecb85bedc8)
+
+    - Introduction to OpenLANE and Strive chipsets
+
+
+
+
+    - Introduction to OpenLANE detailed ASIC design flow 
+
+
+
+3. Get familiar to open-source EDA tools
+
+   - OpenLANE Directory structure in detail
+     
+   - Design Preparation Step
+
+     
+   - Review files after design prep and run synthesis
+     
+   - OpenLANE Project Git Link Description
+
+     
+   - Steps to characterize synthesis results
+     
+
+
+</details>
+
+
+
+<details>
+<summary> WEEK-3 -> Day - 2 </summary>
+    
+# Good floorplan vs bad floorplan and introduction to library cells 
+
+1. Chip Floor planning considerations
+    - Utilization factor and aspect ratio
+      
+    - Concept of pre-placed cells
+      
+    - De-coupling capacitors
+      
+    - Power planning
+      
+    - Pin placement and logical cell placement blockage
+      
+    - Steps to run floorplan using OpenLANE
+      
+    - Review floorplan files and steps to view floorplan
+      
+    - Review floorplan layout in Magic
+    
+      
+2. Library Binding and Placement
+    - Netlist binding and initial place design
+      
+    - Optimize placement using estimated wire-length and capacitance
+      
+    - Final placement optimization
+      
+    - Need for libraries and characterization
+      
+    - Congestion aware placement using RePlAce
+     
+3. Cell design and characterization flows
+    - Inputs for cell design flow
+      
+    - Circuit design step
+      
+    - Layout design step
+      
+    - Typical characterization flow
+    
+4. General timing characterization parameters
+    - Timing threshold definitions
+          
+    - Propagation delay and transition time
+
+</details>
+
+
+
+
+<details>
+<summary> WEEK-3 -> Day - 3 </summary>
+
+# Design library cell using Magic Layout and ngspice characterization 
+
+1. Labs for CMOS inverter ngspice simulations
+       
+   -
+   
+   -
+
+   -
+
+   -
+   
+   -
+   
+   -
+
+ 
+  
+
+2. Inception of Layout Â CMOS fabrication process
+
+   
+   -
+   
+   -
+
+   -
+
+   -
+   
+   -
+   
+   -
+
+   -
+   
+   -
+   
+   -
+   
+  
+
+3. Sky130 Tech File Labs
+
+   -
+   
+   -
+
+   -
+
+   -
+   
+   -
+   
+   -
+
+   -
+   
+   -
+   
+   -
+
+</details>
+
+<details>
+<summary> WEEK-3 -> Day - 4 </summary>
+
+# Pre-layout timing analysis and importance of good clock tree 
+
+
+1. Timing modelling using delay tables
+    -
+
+2. Timing analysis with ideal clocks using openSTA
+    -
+
+3. Clock tree synthesis TritonCTS and signal integrity
+    - Clock tree routing and buffering using H-Tree algorithm
+
+    - Crosstalk and clock net shielding
+
+    - Lab steps to run CTS using TritonCTS
+
+    - Lab steps to verify CTS runs 
+
+5. Timing analysis with real clocks using openSTA 
+    - Setup timing analysis using real clocks
+
+    - Hold timing analysis using real clocks 
+
+    - Lab steps to analyze timing with real clocks using OpenSTA
+
+    - Lab steps to execute OpenSTA with right timing libraries and CTS assignment 
+
+    - Lab steps to observe impact of bigger CTS buffers on setup and hold timing 
+</details>
+
+
+
+
+
+
+<details>
+<summary> WEEK-3 -> Day - 5 </summary>
+
+# Final steps for RTL2GDS using tritonRoute and openSTA 
+
+
+1. Routing and design rule check (DRC)
+    - Introduction to Maze Routing Â LeeÂs algorithm
+  
+    - LeeÂs Algorithm conclusion
+
+    - Design Rule Check
+  
+2. Power Distribution Network and routing
+    - Lab steps to build power distribution network
+
+    - Lab steps from power straps to std cell power 
+
+    - Basics of global and detail routing and configure TritonRoute 
+3. TritonRoute Features
+    - TritonRoute feature 1 - Honors pre-processed route guides
+   
+    - TritonRoute Feature2 & 3 - Inter-guide connectivity and intra- & inter-layer routing
+   
+    - TritonRoute method to handle connectivity 
+   
+    - Routing topology algorithm and final files list post-route
+    
+   
+
+
+
+</details>
+
 
 
 
