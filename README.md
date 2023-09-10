@@ -889,7 +889,18 @@ Steps:
 ![Screenshot from 2023-09-09 22-04-41](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/14f1fa11-c58b-49c9-bf7e-6aee538776bb)
 - ### Steps to run floorplan using OpenLANE
 
+![VirtualBox_PES_physical_design_09_09_2023_14_34_27](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/d341fc94-3035-4493-9df8-092253095dda)
+![VirtualBox_PES_physical_design_10_09_2023_13_10_29](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/c57a8377-e68a-40d3-b46f-263386ff547f)
 
+
+![VirtualBox_PES_physical_design_10_09_2023_13_04_34](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/6a3b2c7e-e697-418b-b004-0127074357c4)
+
+![VirtualBox_PES_physical_design_10_09_2023_13_05_12](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/2c38e324-dd85-4332-b058-bf5be2e8fc0b)
+
+![VirtualBox_PES_physical_design_10_09_2023_13_06_45](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/ccb7e80a-6883-40c7-b85d-7408fa747519)
+
+![VirtualBox_PES_physical_design_10_09_2023_13_08_50](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/e94998c3-9433-4eb4-b913-e8fed09c326e)
+![VirtualBox_PES_physical_design_10_09_2023_13_15_11](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/98eb1e12-c61c-469e-bc79-1c591c06fd5d)
 
 
       
