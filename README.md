@@ -905,8 +905,22 @@ Steps:
 
       
 - ### Review floorplan files and steps to view floorplan
+![VirtualBox_PES_physical_design_10_09_2023_13_23_34](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/bbb4cb8c-1171-4124-8d61-9c27bc37c7cb)
+![VirtualBox_PES_physical_design_10_09_2023_13_29_05](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/abef7228-c8e3-4e7e-b357-2ade0d8e56c6)
+
+![VirtualBox_PES_physical_design_10_09_2023_13_35_11](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/e9c9fb49-4cc0-4243-9c90-9e34fc83cfa3)
+
+
+
 
 - ### Review floorplan layout in Magic
+![VirtualBox_PES_physical_design_10_09_2023_13_35_11](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/dea63558-5ff9-4ed0-85a9-99c21a3a66fb)
+![VirtualBox_PES_physical_design_10_09_2023_13_36_34](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/397d08d6-2710-4850-b98d-da5ccef10d60)
+![VirtualBox_PES_physical_design_10_09_2023_13_43_39](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/739be89f-2952-4325-94be-9bfd106c3386)
+![VirtualBox_PES_physical_design_10_09_2023_13_50_58](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/910e6c03-2c5d-4858-9e70-2b522c9a8352)
+![VirtualBox_PES_physical_design_10_09_2023_13_52_52](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/58a7e660-6df5-45d7-88a9-63eaa4bb1fe6)
+
+
     
       
 ## 2. Library Binding and Placement
