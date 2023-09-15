@@ -925,12 +925,26 @@ Steps:
       
 ## 2. Library Binding and Placement
 - ### Netlist binding and initial place design
-      
+![Screenshot from 2023-09-15 05-29-12](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/fc6cd943-ee51-42f8-bb30-f0a2f146c9af)
+![Screenshot from 2023-09-15 05-30-44](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/c883e3a5-23b5-4b2e-962d-a2a9ef384644)
+![Screenshot from 2023-09-15 05-33-11](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/88b34d62-ded2-44db-998c-da2713212bee)
+![Screenshot from 2023-09-15 05-34-55](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/25ab9bba-7878-486a-91fa-721b21adfb99)
+![Screenshot from 2023-09-15 05-38-17](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/6f697327-3547-49b8-85a3-43e3d269d18d)      
 - ### Optimize placement using estimated wire-length and capacitance
-      
+![Screenshot from 2023-09-15 05-43-07](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/1c23eece-63d6-4ab0-a604-31878b7b02c9)
+![Screenshot from 2023-09-15 05-44-24](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/f86aec2b-4541-4527-9601-c05d845a6174)
+![Screenshot from 2023-09-15 05-51-44](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/30a4081b-fd70-4001-8c58-c7fbf7d72408)
+![Screenshot from 2023-09-15 05-52-36](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/f7ab42c0-60f7-484f-a5af-0002fabf5055)     
 - ### Final placement optimization
-      
+![Screenshot from 2023-09-15 06-00-52](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/dfcdeb5d-8a21-4bc1-bcee-b1d875dcda8e)
+![Screenshot from 2023-09-15 06-10-35](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/50806cc0-6418-4469-89f8-eaeb2f42dff3)
+![Screenshot from 2023-09-15 06-13-25](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/b7084e70-2073-4e59-a2fd-3ef8a0776fa9)      
 - ### Need for libraries and characterization
+
+
+
+
+
       
 - ### Congestion aware placement using RePlAce
      
