@@ -1,4 +1,4 @@
-![Screenshot from 2023-09-09 06-15-15](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/b2ab3c99-639e-4a5b-88b3-027dfaf8ed87)# VLSI Physical Design For ASIC
+![Screenshot from 2023-09-16 22-45-42](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/9440b564-a648-4db9-951f-f635efb30e08)![Screenshot from 2023-09-09 06-15-15](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/b2ab3c99-639e-4a5b-88b3-027dfaf8ed87)# VLSI Physical Design For ASIC
 <br>
 
 This course provides a comprehensive understanding of chip design using the RISC-V architecture. It covers key topics like design cycles, specifications, and SoC development. Students learn about analog IPs, mixed-signal flows, and gain hands-on experience with RISC-V-based SoC design. The curriculum also introduces process design kits, libraries, Verilog RTL design, synthesis, and the RTL-to-GDS flow for complete chip development. The course offers both theoretical insights and practical labs to equip students with essential skills in chip design.
@@ -988,8 +988,19 @@ Steps:
 
 ## 4. General timing characterization parameters
 - ### Timing threshold definitions
-          
-- ### ropagation delay and transition time
+![Screenshot from 2023-09-16 17-22-30](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/f141ec1c-fb44-46c2-a000-0bf4b74e237d)
+![Screenshot from 2023-09-16 22-42-00](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/18c69769-1763-4a91-8c1f-9a8f6298ad28)
+![Screenshot from 2023-09-16 22-42-08](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/74d90f29-5fcc-4fc4-ad6e-14c689b50f77)
+![Screenshot from 2023-09-16 22-42-46](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/bac0c216-febc-48cd-9daf-491625286e98)
+![Screenshot from 2023-09-16 22-43-59](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/121df024-7e82-4a24-94f7-5aa8a308e8c7)
+![Screenshot from 2023-09-16 22-44-53](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/6af87c0b-fe3e-4866-a6c3-b36873fa09ec)
+![Screenshot from 2023-09-16 22-45-39](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/c2ed4515-2ff3-4d91-a830-83fc297be545)
+![Screenshot from 2023-09-16 22-45-42](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/adee4b1f-8020-4d52-ad1d-68575020082b)     
+- ### Propagation delay and transition time
+
+
+
+
 
 </details>
 
