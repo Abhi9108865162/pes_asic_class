@@ -940,8 +940,14 @@ Steps:
 ![Screenshot from 2023-09-15 06-10-35](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/50806cc0-6418-4469-89f8-eaeb2f42dff3)
 ![Screenshot from 2023-09-15 06-13-25](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/b7084e70-2073-4e59-a2fd-3ef8a0776fa9)      
 - ### Need for libraries and characterization
-
-
+![Screenshot from 2023-09-16 07-08-44](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/ebfba563-6498-4421-b724-b93183c27de2)
+![Screenshot from 2023-09-16 07-09-34](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/c16d9c4d-fd10-4a60-9783-f06e6fe78923)
+![Screenshot from 2023-09-16 07-09-48](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/57b04d20-a130-4edc-b73d-e1ca6ca9f8f8)
+![Screenshot from 2023-09-16 07-10-16](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/e2f09f14-49d7-4e5d-8f37-ab4299a2e374)
+![Screenshot from 2023-09-16 07-12-25](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/384369d2-42a3-4250-903e-ecfd69d5f7b9)
+![Screenshot from 2023-09-16 07-13-31](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/da6db991-9a6c-4303-ab5e-d35c529e5edb)
+![Screenshot from 2023-09-16 07-15-12](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/b85e6b61-4d40-4219-9d4f-adb2708e53df)
+![Screenshot from 2023-09-16 07-16-56](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/443bd744-d3d1-4176-a525-c9b24864ca76)
 
 
 
