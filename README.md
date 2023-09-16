@@ -961,10 +961,14 @@ Steps:
 ![Screenshot from 2023-09-16 16-42-57](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/22cdf526-6a87-4001-93b7-0c961ccedc90)
 ![Screenshot from 2023-09-16 16-44-13](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/40bcaecf-9419-49a0-81a4-e3bba85d9936)      
 - ### Circuit design step
+![Screenshot from 2023-09-16 16-48-39](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/4f1e8cb1-82f5-4401-873b-a0b60ad9ab13)
+![Screenshot from 2023-09-16 16-50-07](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/7a1d96ab-86a0-4c54-a247-b07c211951df)
+![Screenshot from 2023-09-16 16-50-14](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/115028a8-d6b4-42e5-bbe2-7f3b26386193)
+![Screenshot from 2023-09-16 16-51-08](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/bf6f777f-1f69-4cdd-a81e-360f1da71677)
+![Screenshot from 2023-09-16 16-52-02](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/1c1cabcd-7e15-4bd1-a8da-5d341db01e42)
+![Screenshot from 2023-09-16 16-55-31](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/cc72af8e-25a1-4010-87e4-da5b3996ef56)
 
 
-
-      
 - ### Layout design step
       
 - ### Typical characterization flow
