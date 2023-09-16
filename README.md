@@ -967,12 +967,25 @@ Steps:
 ![Screenshot from 2023-09-16 16-51-08](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/bf6f777f-1f69-4cdd-a81e-360f1da71677)
 ![Screenshot from 2023-09-16 16-52-02](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/1c1cabcd-7e15-4bd1-a8da-5d341db01e42)
 ![Screenshot from 2023-09-16 16-55-31](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/cc72af8e-25a1-4010-87e4-da5b3996ef56)
-
-
 - ### Layout design step
-      
+![Screenshot from 2023-09-16 17-04-21](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/3c7a2ffd-31bc-400e-8060-846c3e9e36f8)
+![Screenshot from 2023-09-16 17-05-02](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/4c216dde-065c-4334-b220-dba3ac97a28c)
+![Screenshot from 2023-09-16 17-05-06](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/45a800fb-d061-4f44-b7f5-f9a94340f1d0)
+![Screenshot from 2023-09-16 17-07-53](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/08180396-e554-4d6f-ab77-b90766064760)
+![Screenshot from 2023-09-16 17-08-42](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/860f7aab-7f90-4fd6-b214-60285edc26dc)
+![Screenshot from 2023-09-16 17-09-24](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/988a4747-ea42-486e-841a-fece00d6a2fe)      
 - ### Typical characterization flow
-    
+![Screenshot from 2023-09-16 17-12-44](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/503e8d02-899e-4b98-9ccd-ae824ecac670)
+![Screenshot from 2023-09-16 17-12-57](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/2eb7aed4-dd89-496c-ad0f-7ca14bdb2809)
+![Screenshot from 2023-09-16 17-15-44](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/4599d25d-a8d4-4899-9352-aa5154cfc46f)
+![Screenshot from 2023-09-16 17-16-37](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/adf857a4-7e8f-4be0-81f8-ac9109c9ff60)
+![Screenshot from 2023-09-16 17-16-41](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/196ea324-a945-4312-8529-c65703879bd6)
+![Screenshot from 2023-09-16 17-16-48](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/d700337c-5670-4243-97ef-7c2c4534522f)
+![Screenshot from 2023-09-16 17-17-54](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/496c3864-f17a-47ca-8f62-12dc51fa89eb)
+![Screenshot from 2023-09-16 17-18-04](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/557940cd-953f-452e-9c80-5506d67e6c53)
+![Screenshot from 2023-09-16 17-18-57](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/4b6235fe-dc57-4dcd-8455-7a63774c6e0c)
+
+
 ## 4. General timing characterization parameters
 - ### Timing threshold definitions
           
