@@ -1003,17 +1003,17 @@ Steps:
 
 1. Labs for CMOS inverter ngspice simulations
        
-   -
+   -  IO placer revision
    
-   -
+   - SPICE deck creation for CMOS inverter 
 
-   -
+   - SPICE simulation lab for CMOS inverter
 
-   -
+   - Switching Threshold Vm 
    
-   -
+   - Static and dynamic simulation of CMOS inverter 
    
-   -
+   - Lab steps to git clone vsdstdcelldesign
 
  
   
@@ -1021,23 +1021,25 @@ Steps:
 2. Inception of Layout Â CMOS fabrication process
 
    
-   -
+   - Create Active regions
    
-   -
+   - Formation of N-well and P-well
 
-   -
+   - Formation of gate terminal
 
-   -
+   - Lightly doped drain (LDD) formation
    
-   -
+   - Source Â drain formation
    
-   -
+   - Local interconnect formation 
 
-   -
+   - Higher level metal formation
+
+   - Lab introduction to Sky130 basic layers layout and LEF using inverter 
    
-   -
+   - Lab steps to create std cell layout and extract spice netlist 
    
-   -
+    
    
   
 
