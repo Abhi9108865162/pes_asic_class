@@ -948,12 +948,11 @@ Steps:
 ![Screenshot from 2023-09-16 07-13-31](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/da6db991-9a6c-4303-ab5e-d35c529e5edb)
 ![Screenshot from 2023-09-16 07-15-12](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/b85e6b61-4d40-4219-9d4f-adb2708e53df)
 ![Screenshot from 2023-09-16 07-16-56](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/443bd744-d3d1-4176-a525-c9b24864ca76)
-
-
-
-      
 - ### Congestion aware placement using RePlAce
-     
+![VirtualBox_PES_physical_design_16_09_2023_10_19_27](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/ef889f7b-4591-47fc-b88a-3ff8d9f8a3f9)
+![VirtualBox_PES_physical_design_16_09_2023_10_36_26](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/712f4acd-4bcd-4287-b47b-4e7d4dc1003c)
+![VirtualBox_PES_physical_design_16_09_2023_10_44_22](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/c9d5e5ad-7b7f-4423-807b-91d8c33266de)
+![VirtualBox_PES_physical_design_16_09_2023_10_44_38](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/8b100217-ea8b-4355-a1db-e0fd8dfee340)
 ## 3. Cell design and characterization flows
 - ### Inputs for cell design flow
       
