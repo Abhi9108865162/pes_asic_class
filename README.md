@@ -1017,8 +1017,13 @@ Steps:
 
 1. Labs for CMOS inverter ngspice simulations
        
-   -  IO placer revision
-   
+   -  IO placer revision 
+![VirtualBox_PES_physical_design_17_09_2023_08_02_15](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/5320d97f-5c0f-4159-ba65-a2ffe7b96892)
+![VirtualBox_PES_physical_design_17_09_2023_08_18_53](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/910e6c0a-92ae-4e8b-a6ad-8114f06db3e0)
+![VirtualBox_PES_physical_design_17_09_2023_08_18_24](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/4bb9fd09-7e70-41da-bd7b-d01439bd5998)
+![VirtualBox_PES_physical_design_17_09_2023_08_18_44](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/bd004446-366c-460d-8793-56ac1f4a1fbf)
+![VirtualBox_PES_physical_design_17_09_2023_08_22_31](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/c8745a83-6a81-4435-bb78-cac12f090de7)
+
    - SPICE deck creation for CMOS inverter 
 
    - SPICE simulation lab for CMOS inverter
@@ -1032,7 +1037,7 @@ Steps:
  
   
 
-2. Inception of Layout Â CMOS fabrication process
+1. Inception of Layout Â CMOS fabrication process
 
    
    - Create Active regions
@@ -1057,7 +1062,7 @@ Steps:
    
   
 
-3. Sky130 Tech File Labs
+2. Sky130 Tech File Labs
 
    -
    
