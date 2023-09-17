@@ -1081,23 +1081,23 @@ Steps:
 2. Inception of Layout Â CMOS fabrication process
 
    
-   - Create Active regions
+   - ### Create Active regions
    
-   - Formation of N-well and P-well
+   - ### Formation of N-well and P-well
 
-   - Formation of gate terminal
+   - ### Formation of gate terminal
 
-   - Lightly doped drain (LDD) formation
+   - ### Lightly doped drain (LDD) formation
    
-   - Source Â drain formation
+   - ### Source Â drain formation
    
-   - Local interconnect formation 
+   - ### Local interconnect formation 
 
-   - Higher level metal formation
+   - ### Higher level metal formation
 
-   - Lab introduction to Sky130 basic layers layout and LEF using inverter 
+   - ### Lab introduction to Sky130 basic layers layout and LEF using inverter 
    
-   - Lab steps to create std cell layout and extract spice netlist 
+   - ### Lab steps to create std cell layout and extract spice netlist 
    
     
    
