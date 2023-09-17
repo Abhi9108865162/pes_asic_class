@@ -1081,47 +1081,46 @@ Steps:
 2. Inception of Layout Â CMOS fabrication process
 
    
-   - ### Create Active regions
+- ### Create Active regions
    
-   - ### Formation of N-well and P-well
+- ### Formation of N-well and P-well
 
-   - ### Formation of gate terminal
+- ### Formation of gate terminal
 
-   - ### Lightly doped drain (LDD) formation
+- ### Lightly doped drain (LDD) formation
    
-   - ### Source Â drain formation
+- ### Source Â drain formation
    
-   - ### Local interconnect formation 
+- ### Local interconnect formation 
 
-   - ### Higher level metal formation
+- ### Higher level metal formation
 
-   - ### Lab introduction to Sky130 basic layers layout and LEF using inverter 
+- ### Lab introduction to Sky130 basic layers layout and LEF using inverter 
    
-   - ### Lab steps to create std cell layout and extract spice netlist 
+- ### Lab steps to create std cell layout and extract spice netlist 
    
     
    
   
 
 3. Sky130 Tech File Labs
-
-   - Lab steps to create final SPICE deck using Sky130 tech
+- ### Lab steps to create final SPICE deck using Sky130 tech
    
-   - Lab steps to characterize inverter using sky130 model files
+- ### Lab steps to characterize inverter using sky130 model files
 
-   - Lab introduction to Magic tool options and DRC rules
+- ### Lab introduction to Magic tool options and DRC rules
      
-   - Lab introduction to Sky130 pdk's and steps to download labs 
+- ### Lab introduction to Sky130 pdk's and steps to download labs 
    
-   - Lab introduction to Magic and steps to load Sky130 tech-rules
+- ### Lab introduction to Magic and steps to load Sky130 tech-rules
    
-   - Lab exercise to fix poly.9 error in Sky130 tech-file 
+- ### Lab exercise to fix poly.9 error in Sky130 tech-file 
 
-   - Lab exercise to implement poly resistor spacing to diff and tap 
+- ### Lab exercise to implement poly resistor spacing to diff and tap 
    
-   - Lab challenge exercise to describe DRC error as geometrical construct
+- ### Lab challenge exercise to describe DRC error as geometrical construct
    
-   - Lab challenge to find missing or incorrect rules and fix them
+- ### Lab challenge to find missing or incorrect rules and fix them
 
 </details>
 
