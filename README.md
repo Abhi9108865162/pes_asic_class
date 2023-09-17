@@ -1082,6 +1082,7 @@ Steps:
 
    
 - ### Create Active regions
+  
 ![Screenshot from 2023-09-17 14-02-52](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/51dc8d17-830c-4046-a3ba-ad9c33fab963)
 ![Screenshot from 2023-09-17 14-22-30](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/eac917c2-0bfb-4dc8-9bb1-26f269ee578a)
 ![Screenshot from 2023-09-17 14-24-48](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/8b35eba8-a0a8-466c-b459-26f2c6dce6fa)
@@ -1093,10 +1094,24 @@ Steps:
 ![Screenshot from 2023-09-17 14-31-22](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/4c2fa1a8-ae42-43c4-989f-4c1ae38c256e)
 ![Screenshot from 2023-09-17 14-31-39](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/382c50d4-d9d1-47ef-a365-075992fce5e8)
 ![Screenshot from 2023-09-17 14-32-13](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/56fd2c77-b609-4141-916e-a3fc0db05065)
+
 - ### Formation of N-well and P-well
 
-- ### Formation of gate terminal
 
+- ### Formation of gate terminal
+![Screenshot from 2023-09-17 14-36-23](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/8da55799-f6f8-4b3b-beb7-d1591af856a6)
+![Screenshot from 2023-09-17 14-38-40](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/c39035af-ac8d-4549-854b-df067b70cd7b)
+![Screenshot from 2023-09-17 14-40-39](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/65998b46-a72e-48f1-b45b-8756465c82cb)
+![Screenshot from 2023-09-17 14-42-35](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/7041adb4-294c-4463-a73c-a5951dc14273)
+![Screenshot from 2023-09-17 14-43-17](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/7114d3a2-bb22-45f6-b981-cd2817ad9b65)
+![Screenshot from 2023-09-17 14-43-29](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/56201cff-ee63-4de8-ad3a-f1106313c6b1)
+![Screenshot from 2023-09-17 14-44-07](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/2b0ed540-4e7c-4cbe-971c-9f3140ba4cbb)
+![Screenshot from 2023-09-17 14-44-37](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/1b55455c-d35a-4d75-902d-3af8bafa4ee0)
+![Screenshot from 2023-09-17 14-45-08](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/7b492042-9050-4e6a-8835-d3a746bc274b)
+![Screenshot from 2023-09-17 14-45-32](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/d90b570c-180e-4fee-8ac9-fe420f9466fb)
+![Screenshot from 2023-09-17 14-45-46](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/69db8c43-fb23-4cd6-a03b-e311a4157d5b)
+![Screenshot from 2023-09-17 14-46-50](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/93d07f74-e82d-4f24-9bfa-907fabdea0fa)
+![Screenshot from 2023-09-17 14-47-38](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/3c73351d-6f1b-4314-82ae-2dbbceea3a1e)
 - ### Lightly doped drain (LDD) formation
    
 - ### Source Â drain formation
