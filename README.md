@@ -1,4 +1,4 @@
-![Screenshot from 2023-09-16 22-45-42](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/9440b564-a648-4db9-951f-f635efb30e08)![Screenshot from 2023-09-09 06-15-15](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/b2ab3c99-639e-4a5b-88b3-027dfaf8ed87)# VLSI Physical Design For ASIC
+# VLSI Physical Design For ASIC
 <br>
 
 This course provides a comprehensive understanding of chip design using the RISC-V architecture. It covers key topics like design cycles, specifications, and SoC development. Students learn about analog IPs, mixed-signal flows, and gain hands-on experience with RISC-V-based SoC design. The curriculum also introduces process design kits, libraries, Verilog RTL design, synthesis, and the RTL-to-GDS flow for complete chip development. The course offers both theoretical insights and practical labs to equip students with essential skills in chip design.
@@ -997,11 +997,14 @@ Steps:
 ![Screenshot from 2023-09-16 22-45-39](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/c2ed4515-2ff3-4d91-a830-83fc297be545)
 ![Screenshot from 2023-09-16 22-45-42](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/adee4b1f-8020-4d52-ad1d-68575020082b)     
 - ### Propagation delay and transition time
-
-
-
-
-
+![Screenshot from 2023-09-16 22-52-19](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/47727743-2d2a-40f5-9352-1f9eb6af3653)
+![Screenshot from 2023-09-16 22-52-56](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/f968eb29-95d8-46f5-83c3-5d2b31488ff8)
+![Screenshot from 2023-09-16 22-55-07](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/18585568-0494-4b0a-b4fd-a62e772a76b5)
+![Screenshot from 2023-09-16 22-55-21](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/33503f6a-00f7-4b20-87b4-6fccd304179a)
+![Screenshot from 2023-09-16 22-57-50](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/8001149a-7ebb-4c0a-9366-d1ad5e1b2da5)
+![Screenshot from 2023-09-16 22-58-30](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/4ee86602-fcb0-4851-9972-adff4f38f143)
+![Screenshot from 2023-09-16 22-58-36](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/6e860fe3-36b8-4b01-be2e-fa58459ac5a8)
+![Screenshot from 2023-09-16 23-00-18](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/0a0a3ac5-08f4-4211-897b-120894dada9c)
 </details>
 
 
