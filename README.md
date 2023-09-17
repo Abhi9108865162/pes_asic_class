@@ -1082,7 +1082,17 @@ Steps:
 
    
 - ### Create Active regions
-   
+![Screenshot from 2023-09-17 14-02-52](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/51dc8d17-830c-4046-a3ba-ad9c33fab963)
+![Screenshot from 2023-09-17 14-22-30](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/eac917c2-0bfb-4dc8-9bb1-26f269ee578a)
+![Screenshot from 2023-09-17 14-24-48](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/8b35eba8-a0a8-466c-b459-26f2c6dce6fa)
+![Screenshot from 2023-09-17 14-24-54](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/2a92feeb-5345-497a-9f6f-b060dc9d2371)
+![Screenshot from 2023-09-17 14-28-51](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/31dc95b9-0864-43ff-911e-e311ebf4a7c9)
+![Screenshot from 2023-09-17 14-29-02](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/db3c0927-b86c-452f-9329-6325548190e4)
+![Screenshot from 2023-09-17 14-30-23](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/f4a9c873-7953-40a8-95fc-44f262877693)
+![Screenshot from 2023-09-17 14-31-16](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/b8eddfa3-3fc8-47e4-9274-0e9f15bf89a3)
+![Screenshot from 2023-09-17 14-31-22](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/4c2fa1a8-ae42-43c4-989f-4c1ae38c256e)
+![Screenshot from 2023-09-17 14-31-39](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/382c50d4-d9d1-47ef-a365-075992fce5e8)
+![Screenshot from 2023-09-17 14-32-13](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/56fd2c77-b609-4141-916e-a3fc0db05065)
 - ### Formation of N-well and P-well
 
 - ### Formation of gate terminal
