@@ -1053,8 +1053,20 @@ Steps:
 ![Screenshot from 2023-09-17 09-50-06](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/9451779a-c05c-4849-8f7e-6aaff4de6279)
 ![Screenshot from 2023-09-17 09-55-36](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/14574bdf-24f3-42b9-a014-7b8dd598b30f)
    - Static and dynamic simulation of CMOS inverter 
-
-
+![Screenshot from 2023-09-17 09-59-18](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/3356dd2f-3591-4255-9170-9d06bb9a2f24)
+![Screenshot from 2023-09-17 10-00-35](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/2c5f4bbb-292e-4691-96cd-515d6a907db6)
+![Screenshot from 2023-09-17 10-01-38](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/93236596-b281-4544-9b18-c82f7c79c156)
+![Screenshot from 2023-09-17 10-01-40](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/ee1f3362-2f91-4aa1-9965-938c35cbbb53)
+![Screenshot from 2023-09-17 10-01-53](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/652e08cb-5d08-440b-b739-396e1403082a)
+![Screenshot from 2023-09-17 10-02-08](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/f7c17070-9045-4ca7-8006-eed5773dca67)
+![Screenshot from 2023-09-17 10-02-15](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/d8017a38-56dd-4426-b326-588161e2bdf5)
+![Screenshot from 2023-09-17 12-47-17](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/21c6665d-d089-4e50-bf18-a7af527b0a79)
+![Screenshot from 2023-09-17 12-48-15](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/b5f7b653-3771-4588-b9ae-247dd6a2dcd8)
+![Screenshot from 2023-09-17 12-48-47](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/1cfb6048-873b-4ce8-b59b-ae7f7bf09214)
+![Screenshot from 2023-09-17 12-50-00](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/4e7120b2-1a73-4163-b22e-047c47a7ef74)
+![Screenshot from 2023-09-17 12-50-04](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/7362037c-e188-49f8-a90d-6aa4faa5be1f)
+![Screenshot from 2023-09-17 12-50-09](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/5c50c24b-40e6-4555-9154-6aabcfed95a4)
+![Screenshot from 2023-09-17 12-50-32](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/6846c8d5-de66-488c-97fd-433dc5097ab6)
 
 
 
