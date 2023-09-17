@@ -1199,18 +1199,24 @@ Steps:
 ![Screenshot from 2023-09-17 19-23-40](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/e42bb111-da32-47a5-bdcd-38a848530368)
 ![Screenshot from 2023-09-17 19-24-09](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/ede4f858-86f2-47be-aab3-9ebfcf6c3a5c)
 
-
-
-
-
-
 - ### Lab introduction to Sky130 basic layers layout and LEF using inverter 
-   
+
+
+ ![VirtualBox_PES_physical_design_17_09_2023_19_55_15](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/8f7a53a1-4984-4e9c-874e-68763239881a)
+![VirtualBox_PES_physical_design_17_09_2023_19_56_19](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/6b6dbbbc-5835-4042-be4c-61624a81ceec)
+![VirtualBox_PES_physical_design_17_09_2023_19_57_31](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/bc10c9e5-7c17-47dc-8765-4d4871020caf)
+![VirtualBox_PES_physical_design_17_09_2023_19_59_56](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/76c853ad-0e02-4b9b-a712-b1a95592f8a6)
+![VirtualBox_PES_physical_design_17_09_2023_20_01_30](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/8ad814f6-326e-45fb-8102-784a5792ff54)
+![VirtualBox_PES_physical_design_17_09_2023_20_01_54](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/46236685-75dd-4a76-87ba-030d2c239332)
+
 
 
 
 - ### Lab steps to create std cell layout and extract spice netlist 
    
+
+
+
     
    
   
