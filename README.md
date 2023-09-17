@@ -1111,6 +1111,7 @@ Steps:
 
 
 - ### Formation of gate terminal
+
 ![Screenshot from 2023-09-17 14-36-23](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/8da55799-f6f8-4b3b-beb7-d1591af856a6)
 ![Screenshot from 2023-09-17 14-38-40](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/c39035af-ac8d-4549-854b-df067b70cd7b)
 ![Screenshot from 2023-09-17 14-40-39](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/65998b46-a72e-48f1-b45b-8756465c82cb)
@@ -1124,16 +1125,65 @@ Steps:
 ![Screenshot from 2023-09-17 14-45-46](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/69db8c43-fb23-4cd6-a03b-e311a4157d5b)
 ![Screenshot from 2023-09-17 14-46-50](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/93d07f74-e82d-4f24-9bfa-907fabdea0fa)
 ![Screenshot from 2023-09-17 14-47-38](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/3c73351d-6f1b-4314-82ae-2dbbceea3a1e)
+
 - ### Lightly doped drain (LDD) formation
-   
+  
+   ![Screenshot from 2023-09-17 17-43-21](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/3463530e-7ac0-413a-815f-0985ebd70ce6)
+![Screenshot from 2023-09-17 18-08-37](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/c550200e-8144-4e1d-9f53-313d1f1b65b2)
+![Screenshot from 2023-09-17 18-11-30](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/5a1d36b6-4a04-4406-8785-448fae4ba7b6)
+![Screenshot from 2023-09-17 18-12-18](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/524e87a8-0294-4d80-a462-8d9b4f646434)
+![Screenshot from 2023-09-17 18-12-32](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/8924b955-bfe8-4673-9d96-07985349acd7)
+![Screenshot from 2023-09-17 18-13-18](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/591d55e9-81e4-462a-8ee5-0f9d0c5f128e)
+![Screenshot from 2023-09-17 18-13-54](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/33e33099-3422-47fb-ba40-d9488b976396)
+![Screenshot from 2023-09-17 18-14-55](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/6ea258e7-cf28-4e9c-a82e-e1e06496978e)
+![Screenshot from 2023-09-17 18-15-15](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/125579c8-af0b-4746-9749-d333138a3b53)
+![Screenshot from 2023-09-17 18-15-52](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/909c0f82-b205-41a8-8cca-f065de33e44a)
+![Screenshot from 2023-09-17 18-16-01](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/7f12058d-416a-49e2-b50e-16856a5f892a)
+![Screenshot from 2023-09-17 18-16-31](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/bcd30a3a-6d81-460f-9e4a-f7648c3079e8)
+![Screenshot from 2023-09-17 18-17-08](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/e1f2988e-5869-4c92-a440-b818ac69bd9b)
+
+
 - ### Source Â drain formation
-   
+
+![Screenshot from 2023-09-17 18-20-12](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/3356dabe-2447-4e84-aac4-00b7a7cc26cc)
+![Screenshot from 2023-09-17 18-20-51](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/7ab3f556-52e3-4427-bf4b-c17d96474c53)
+![Screenshot from 2023-09-17 18-21-28](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/85efd251-613b-4c39-b05c-a714a139e05d)
+![Screenshot from 2023-09-17 18-22-56](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/7ec5e87b-9b2b-4fc3-b971-d132e9f1818e)
+![Screenshot from 2023-09-17 18-23-50](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/5d35c097-9680-49f3-be61-7a38d9969582)
+![Screenshot from 2023-09-17 18-24-12](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/e2215ffb-7ddc-4a9d-808f-71b69feafcc9)
+![Screenshot from 2023-09-17 18-24-25](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/11f0429f-6c04-4949-8d37-e181d43b5f4e)
+![Screenshot from 2023-09-17 18-25-06](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/ab1de2a1-7c9b-416d-8258-cddf0a34c705)
+![Screenshot from 2023-09-17 18-25-17](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/b4ab0756-cbe7-4284-9165-26bf42a3f1ac)
+
+
 - ### Local interconnect formation 
+![Screenshot from 2023-09-17 18-25-25](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/6149704a-4571-4493-a124-64473b0d3cbf)
+![Screenshot from 2023-09-17 18-29-06](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/2db47b99-f37c-4db6-9e4e-48b1383f07ef)
+![Screenshot from 2023-09-17 18-30-17](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/7da1638c-48fe-47ea-a950-143a08a62b4a)
+![Screenshot from 2023-09-17 18-31-01](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/2a11d103-e5ce-4b8f-afdb-8e0b0d926749)
+![Screenshot from 2023-09-17 18-31-42](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/ce93ff75-6ee0-4da7-9b18-7d2992b66f78)
+![Screenshot from 2023-09-17 18-31-58](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/0702c4bc-b929-422a-9080-12d91407a944)
+![Screenshot from 2023-09-17 18-32-43](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/f62e40d1-313c-4dc6-b5e5-79591366bd2d)
+![Screenshot from 2023-09-17 18-32-58](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/0774864b-c999-4d24-9c79-f488e8d0d31b)
+![Screenshot from 2023-09-17 18-34-26](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/51419184-3bbf-41e0-971b-15649a63e02b)
+![Screenshot from 2023-09-17 18-35-14](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/7c757ff9-26dc-4f66-86de-0662048ae27a)
+![Screenshot from 2023-09-17 18-35-23](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/84251179-56e0-4a30-ad2c-a27075fb53fa)
+![Screenshot from 2023-09-17 18-35-33](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/c78d915a-8618-4864-887e-46fbbee47a77)
+![Screenshot from 2023-09-17 18-36-23](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/b532f61b-6cef-4355-bbd9-a5a24f1d9c63)
+![Screenshot from 2023-09-17 18-36-36](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/87dd81bd-a13e-4a64-8479-6c0b7a7bb079)
+
 
 - ### Higher level metal formation
 
+
+
+
+
 - ### Lab introduction to Sky130 basic layers layout and LEF using inverter 
    
+
+
+
 - ### Lab steps to create std cell layout and extract spice netlist 
    
     
