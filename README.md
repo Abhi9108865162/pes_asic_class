@@ -1,4 +1,4 @@
-# VLSI Physical Design For ASIC
+![Screenshot from 2023-09-17 19-05-58](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/651c26c2-b80b-459e-aaea-1998c5372814)![Screenshot from 2023-09-17 19-12-57](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/7e300c4a-f2bb-4bac-9189-b0f66d0121c7)![Screenshot from 2023-09-17 19-04-36](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/5e2b80f4-5675-490e-abec-d10234979393)# VLSI Physical Design For ASIC
 <br>
 
 This course provides a comprehensive understanding of chip design using the RISC-V architecture. It covers key topics like design cycles, specifications, and SoC development. Students learn about analog IPs, mixed-signal flows, and gain hands-on experience with RISC-V-based SoC design. The curriculum also introduces process design kits, libraries, Verilog RTL design, synthesis, and the RTL-to-GDS flow for complete chip development. The course offers both theoretical insights and practical labs to equip students with essential skills in chip design.
@@ -1176,10 +1176,28 @@ Steps:
 - ### Higher level metal formation
   
 ![Screenshot from 2023-09-17 18-36-46](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/eee39e58-d1a1-4181-b4eb-f61304f98c29)
-
-
-
-
+![Screenshot from 2023-09-17 19-04-47](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/6647890b-b98a-4e70-89db-5b6833d2eb2d)
+![Screenshot from 2023-09-17 19-05-58](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/1ce3a6e7-8b2b-4763-bc7b-e52b3c3cab6a)
+![Screenshot from 2023-09-17 19-12-57](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/e759f551-5f89-437d-b4e7-6022b0699013)
+![Screenshot from 2023-09-17 19-14-13](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/5dfa4e37-74dd-4093-85d3-7fc3f9955292)
+![Screenshot from 2023-09-17 19-14-34](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/5db1f4f5-862c-4028-80d9-ba359e16ca8d)
+![Screenshot from 2023-09-17 19-14-39](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/cf07dfe2-7958-44e5-b1d5-1d32139344e0)
+![Screenshot from 2023-09-17 19-15-17](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/b6e57dbd-7c28-448a-a1f5-7242ea66a908)
+![Screenshot from 2023-09-17 19-15-27](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/cb32b608-0370-47ef-beed-e45ee2ecbb2f)
+![Screenshot from 2023-09-17 19-15-36](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/1c16d4b9-874b-4a68-bedc-cbbbeae2a1a5)
+![Screenshot from 2023-09-17 19-16-54](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/e7ef238b-4fe5-45ad-bfad-a6954890086a)
+![Screenshot from 2023-09-17 19-17-05](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/9bf3bd36-cda9-43cd-8683-86f7c6b2272d)
+![Screenshot from 2023-09-17 19-17-17](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/64de6b1d-18b5-4dff-8797-d590218d90b2)
+![Screenshot from 2023-09-17 19-17-20](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/f739aaad-25c1-4856-a893-6c5588c21425)
+![Screenshot from 2023-09-17 19-17-28](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/8988db4f-6ecd-417d-ba71-135dc4a88813)
+![Screenshot from 2023-09-17 19-17-45](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/0c396d72-cbf8-44f7-84c6-e573e4921509)
+![Screenshot from 2023-09-17 19-18-06](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/fadfcb56-5caa-4775-8ba3-8de8c05cdb76)
+![Screenshot from 2023-09-17 19-21-07](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/c067b55f-e25e-4ebb-8e47-4be3b62e2a50)
+![Screenshot from 2023-09-17 19-21-49](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/50503440-9bc8-4726-b41a-ed828d0df5a0)
+![Screenshot from 2023-09-17 19-22-32](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/e707e809-6e1f-4371-a6a7-fec3f5244065)
+![Screenshot from 2023-09-17 19-23-17](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/3fadd29b-d8e2-48ed-8a11-a7d782a91109)
+![Screenshot from 2023-09-17 19-23-40](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/e42bb111-da32-47a5-bdcd-38a848530368)
+![Screenshot from 2023-09-17 19-24-09](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/ede4f858-86f2-47be-aab3-9ebfcf6c3a5c)
 
 
 
