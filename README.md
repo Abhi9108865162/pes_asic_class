@@ -1023,10 +1023,15 @@ Steps:
 ![VirtualBox_PES_physical_design_17_09_2023_08_18_24](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/4bb9fd09-7e70-41da-bd7b-d01439bd5998)
 ![VirtualBox_PES_physical_design_17_09_2023_08_18_44](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/bd004446-366c-460d-8793-56ac1f4a1fbf)
 ![VirtualBox_PES_physical_design_17_09_2023_08_22_31](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/c8745a83-6a81-4435-bb78-cac12f090de7)
-
    - SPICE deck creation for CMOS inverter 
-
+![Screenshot from 2023-09-17 08-27-54](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/584f6131-92bd-44ca-9de4-e33ee3a47932)
+![Screenshot from 2023-09-17 09-09-33](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/15ddd21e-9062-4e84-9225-eb7d990a3c92)
+![Screenshot from 2023-09-17 09-12-02](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/87640242-6b83-4b8c-b7f7-0eb4a85854d6)
+![Screenshot from 2023-09-17 09-13-10](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/4aabf6ca-ec5f-4d06-944c-4395ae205801)
    - SPICE simulation lab for CMOS inverter
+
+
+
 
    - Switching Threshold Vm 
    
