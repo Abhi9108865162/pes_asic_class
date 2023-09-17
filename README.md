@@ -1,4 +1,4 @@
-![Screenshot from 2023-09-17 19-05-58](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/651c26c2-b80b-459e-aaea-1998c5372814)![Screenshot from 2023-09-17 19-12-57](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/7e300c4a-f2bb-4bac-9189-b0f66d0121c7)![Screenshot from 2023-09-17 19-04-36](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/5e2b80f4-5675-490e-abec-d10234979393)# VLSI Physical Design For ASIC
+VLSI Physical Design For ASIC
 <br>
 
 This course provides a comprehensive understanding of chip design using the RISC-V architecture. It covers key topics like design cycles, specifications, and SoC development. Students learn about analog IPs, mixed-signal flows, and gain hands-on experience with RISC-V-based SoC design. The curriculum also introduces process design kits, libraries, Verilog RTL design, synthesis, and the RTL-to-GDS flow for complete chip development. The course offers both theoretical insights and practical labs to equip students with essential skills in chip design.
