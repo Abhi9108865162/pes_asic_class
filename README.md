@@ -1015,7 +1015,7 @@ Steps:
 
 # Design library cell using Magic Layout and ngspice characterization 
 
-1. Labs for CMOS inverter ngspice simulations
+## 1. Labs for CMOS inverter ngspice simulations
        
 - ###  IO placer revision 
 ![VirtualBox_PES_physical_design_17_09_2023_08_02_15](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/5320d97f-5c0f-4159-ba65-a2ffe7b96892)
@@ -1078,7 +1078,7 @@ Steps:
 ![VirtualBox_PES_physical_design_17_09_2023_13_17_52](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/ec4521f6-5e1c-4a91-a1e0-3e28deaa32c7)
 ![VirtualBox_PES_physical_design_17_09_2023_13_17_45](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/43e4c943-17a8-4533-8370-5c67f6618bfb)
 
-2. Inception of Layout Â CMOS fabrication process
+## 2. Inception of Layout Â CMOS fabrication process
 
    
 - ### Create Active regions
@@ -1103,7 +1103,7 @@ Steps:
    
   
 
-3. Sky130 Tech File Labs
+## 3. Sky130 Tech File Labs
 - ### Lab steps to create final SPICE deck using Sky130 tech
    
 - ### Lab steps to characterize inverter using sky130 model files
@@ -1130,31 +1130,34 @@ Steps:
 # Pre-layout timing analysis and importance of good clock tree 
 
 
-1. Timing modelling using delay tables
+## 1. Timing modelling using delay tables
     -
 
-2. Timing analysis with ideal clocks using openSTA
+## 2. Timing analysis with ideal clocks using openSTA
     -
 
-3. Clock tree synthesis TritonCTS and signal integrity
-    - Clock tree routing and buffering using H-Tree algorithm
+## 3. Clock tree synthesis TritonCTS and signal integrity
+- ### Clock tree routing and buffering using H-Tree algorithm
 
-    - Crosstalk and clock net shielding
+- ### Crosstalk and clock net shielding
 
-    - Lab steps to run CTS using TritonCTS
+- ### Lab steps to run CTS using TritonCTS
 
-    - Lab steps to verify CTS runs 
+- ### Lab steps to verify CTS runs 
 
-5. Timing analysis with real clocks using openSTA 
-    - Setup timing analysis using real clocks
+## 4. Timing analysis with real clocks using openSTA 
+- ### Setup timing analysis using real clocks
 
-    - Hold timing analysis using real clocks 
+- ### Hold timing analysis using real clocks 
 
-    - Lab steps to analyze timing with real clocks using OpenSTA
+- ### Lab steps to analyze timing with real clocks using OpenSTA
 
-    - Lab steps to execute OpenSTA with right timing libraries and CTS assignment 
+- ### Lab steps to execute OpenSTA with right timing libraries and CTS assignment 
 
-    - Lab steps to observe impact of bigger CTS buffers on setup and hold timing 
+- ### Lab steps to observe impact of bigger CTS buffers on setup and hold timing
+
+
+
 </details>
 
 
@@ -1168,27 +1171,27 @@ Steps:
 # Final steps for RTL2GDS using tritonRoute and openSTA 
 
 
-1. Routing and design rule check (DRC)
-    - Introduction to Maze Routing Â LeeÂs algorithm
+## 1. Routing and design rule check (DRC)
+- ### Introduction to Maze Routing Â LeeÂs algorithm
   
-    - LeeÂs Algorithm conclusion
+- ### LeeÂs Algorithm conclusion
 
-    - Design Rule Check
+- ### Design Rule Check
   
-2. Power Distribution Network and routing
-    - Lab steps to build power distribution network
+## 2. Power Distribution Network and routing
+- ### Lab steps to build power distribution network
 
-    - Lab steps from power straps to std cell power 
+- ### Lab steps from power straps to std cell power 
 
-    - Basics of global and detail routing and configure TritonRoute 
-3. TritonRoute Features
-    - TritonRoute feature 1 - Honors pre-processed route guides
+- ### Basics of global and detail routing and configure TritonRoute 
+## 3. TritonRoute Features
+- ### TritonRoute feature 1 - Honors pre-processed route guides
    
-    - TritonRoute Feature2 & 3 - Inter-guide connectivity and intra- & inter-layer routing
+- ### TritonRoute Feature2 & 3 - Inter-guide connectivity and intra- & inter-layer routing
    
-    - TritonRoute method to handle connectivity 
+- ### TritonRoute method to handle connectivity 
    
-    - Routing topology algorithm and final files list post-route
+- ### Routing topology algorithm and final files list post-route
     
    
 
