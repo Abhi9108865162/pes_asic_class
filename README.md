@@ -1078,7 +1078,7 @@ Steps:
 ![VirtualBox_PES_physical_design_17_09_2023_13_17_52](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/ec4521f6-5e1c-4a91-a1e0-3e28deaa32c7)
 ![VirtualBox_PES_physical_design_17_09_2023_13_17_45](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/43e4c943-17a8-4533-8370-5c67f6618bfb)
 
-1. Inception of Layout Â CMOS fabrication process
+2. Inception of Layout Â CMOS fabrication process
 
    
    - Create Active regions
@@ -1103,25 +1103,25 @@ Steps:
    
   
 
-2. Sky130 Tech File Labs
+3. Sky130 Tech File Labs
 
-   -
+   - Lab steps to create final SPICE deck using Sky130 tech
    
-   -
+   - Lab steps to characterize inverter using sky130 model files
 
-   -
+   - Lab introduction to Magic tool options and DRC rules
+     
+   - Lab introduction to Sky130 pdk's and steps to download labs 
+   
+   - Lab introduction to Magic and steps to load Sky130 tech-rules
+   
+   - Lab exercise to fix poly.9 error in Sky130 tech-file 
 
-   -
+   - Lab exercise to implement poly resistor spacing to diff and tap 
    
-   -
+   - Lab challenge exercise to describe DRC error as geometrical construct
    
-   -
-
-   -
-   
-   -
-   
-   -
+   - Lab challenge to find missing or incorrect rules and fix them
 
 </details>
 
