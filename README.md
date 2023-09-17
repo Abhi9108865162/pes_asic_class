@@ -1044,13 +1044,20 @@ Steps:
 ![Screenshot from 2023-09-17 09-33-02](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/b099b3ba-9124-4961-8494-b1003257e10d)
 ![Screenshot from 2023-09-17 09-33-37](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/5a4c7279-0cb3-4f12-b5c1-ec846eaf339b)
 ![Screenshot from 2023-09-17 09-33-59](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/41f13c9a-c6ed-4c97-8b45-6edf908a5a1b)
-
-
-
    - Switching Threshold Vm 
-   
+![Screenshot from 2023-09-17 09-45-44](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/94c0bd49-4cd9-4ff7-910e-ab6ca85af0bc)
+![Screenshot from 2023-09-17 09-46-46](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/448cf589-d97f-4a5e-8fb3-b8ad71428a32)
+![Screenshot from 2023-09-17 09-47-19](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/eecf1403-7281-4173-b01f-9e0bc54840ec)
+![Screenshot from 2023-09-17 09-47-58](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/07fd6867-a47c-482a-95fa-73bf9c642a7c)
+![Screenshot from 2023-09-17 09-49-43](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/51e18153-d0ef-4388-9fe2-545b81e49411)
+![Screenshot from 2023-09-17 09-50-06](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/9451779a-c05c-4849-8f7e-6aaff4de6279)
+![Screenshot from 2023-09-17 09-55-36](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/14574bdf-24f3-42b9-a014-7b8dd598b30f)
    - Static and dynamic simulation of CMOS inverter 
-   
+
+
+
+
+
    - Lab steps to git clone vsdstdcelldesign
 
  
