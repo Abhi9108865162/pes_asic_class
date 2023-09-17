@@ -1017,18 +1017,18 @@ Steps:
 
 1. Labs for CMOS inverter ngspice simulations
        
-   -  IO placer revision 
+- ###  IO placer revision 
 ![VirtualBox_PES_physical_design_17_09_2023_08_02_15](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/5320d97f-5c0f-4159-ba65-a2ffe7b96892)
 ![VirtualBox_PES_physical_design_17_09_2023_08_18_53](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/910e6c0a-92ae-4e8b-a6ad-8114f06db3e0)
 ![VirtualBox_PES_physical_design_17_09_2023_08_18_24](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/4bb9fd09-7e70-41da-bd7b-d01439bd5998)
 ![VirtualBox_PES_physical_design_17_09_2023_08_18_44](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/bd004446-366c-460d-8793-56ac1f4a1fbf)
 ![VirtualBox_PES_physical_design_17_09_2023_08_22_31](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/c8745a83-6a81-4435-bb78-cac12f090de7)
-   - SPICE deck creation for CMOS inverter 
+- ### SPICE deck creation for CMOS inverter 
 ![Screenshot from 2023-09-17 08-27-54](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/584f6131-92bd-44ca-9de4-e33ee3a47932)
 ![Screenshot from 2023-09-17 09-09-33](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/15ddd21e-9062-4e84-9225-eb7d990a3c92)
 ![Screenshot from 2023-09-17 09-12-02](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/87640242-6b83-4b8c-b7f7-0eb4a85854d6)
 ![Screenshot from 2023-09-17 09-13-10](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/4aabf6ca-ec5f-4d06-944c-4395ae205801)
-   - SPICE simulation lab for CMOS inverter
+- ### SPICE simulation lab for CMOS inverter
 ![Screenshot from 2023-09-17 09-25-41](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/3efe7dd4-46b8-41ca-b0e2-6529994dfb57)
 ![Screenshot from 2023-09-17 09-26-25](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/8a1e8e33-bb01-4ce2-a136-499dc8fbcf8b)
 ![Screenshot from 2023-09-17 09-27-34](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/2fb6869b-e374-4a4c-a0ca-5bb0bce89fb5)
@@ -1044,7 +1044,7 @@ Steps:
 ![Screenshot from 2023-09-17 09-33-02](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/b099b3ba-9124-4961-8494-b1003257e10d)
 ![Screenshot from 2023-09-17 09-33-37](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/5a4c7279-0cb3-4f12-b5c1-ec846eaf339b)
 ![Screenshot from 2023-09-17 09-33-59](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/41f13c9a-c6ed-4c97-8b45-6edf908a5a1b)
-   - Switching Threshold Vm 
+- ### Switching Threshold Vm 
 ![Screenshot from 2023-09-17 09-45-44](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/94c0bd49-4cd9-4ff7-910e-ab6ca85af0bc)
 ![Screenshot from 2023-09-17 09-46-46](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/448cf589-d97f-4a5e-8fb3-b8ad71428a32)
 ![Screenshot from 2023-09-17 09-47-19](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/eecf1403-7281-4173-b01f-9e0bc54840ec)
@@ -1052,7 +1052,7 @@ Steps:
 ![Screenshot from 2023-09-17 09-49-43](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/51e18153-d0ef-4388-9fe2-545b81e49411)
 ![Screenshot from 2023-09-17 09-50-06](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/9451779a-c05c-4849-8f7e-6aaff4de6279)
 ![Screenshot from 2023-09-17 09-55-36](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/14574bdf-24f3-42b9-a014-7b8dd598b30f)
-   - Static and dynamic simulation of CMOS inverter 
+- ### Static and dynamic simulation of CMOS inverter 
 ![Screenshot from 2023-09-17 09-59-18](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/3356dd2f-3591-4255-9170-9d06bb9a2f24)
 ![Screenshot from 2023-09-17 10-00-35](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/2c5f4bbb-292e-4691-96cd-515d6a907db6)
 ![Screenshot from 2023-09-17 10-01-38](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/93236596-b281-4544-9b18-c82f7c79c156)
@@ -1072,13 +1072,11 @@ Steps:
 ![Screenshot from 2023-09-17 12-51-20](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/360bf410-e0c4-4945-bca3-f323a954df5d)
 ![Screenshot from 2023-09-17 12-53-00](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/d36e133b-5e8f-40aa-a241-7d5ea640dea1)
 ![Screenshot from 2023-09-17 12-54-20](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/5e654017-c92c-411b-8582-927bbe84e1f0)
-
-
-
-   - Lab steps to git clone vsdstdcelldesign
-
- 
-  
+- ### Lab steps to git clone vsdstdcelldesign
+![VirtualBox_PES_physical_design_17_09_2023_13_10_41](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/5c9ba5e4-f649-4f13-8264-bf0c57c5c318)
+![VirtualBox_PES_physical_design_17_09_2023_13_15_06](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/15c54af6-eaf7-4c6e-8518-24fce048e895)
+![VirtualBox_PES_physical_design_17_09_2023_13_17_52](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/ec4521f6-5e1c-4a91-a1e0-3e28deaa32c7)
+![VirtualBox_PES_physical_design_17_09_2023_13_17_45](https://github.com/Abhi9108865162/pes_asic_class/assets/141741065/43e4c943-17a8-4533-8370-5c67f6618bfb)
 
 1. Inception of Layout Â CMOS fabrication process
 
